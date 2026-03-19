@@ -1,0 +1,27 @@
+# Node
+hardhat/node_modules/
+hardhat/artifacts/
+hardhat/cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temp files
+.~lock*
+*.odt
+
+# Intermediate plots (keep only final ones)
+cosine_vs_rmsd*.png
+euclidean_vs_*.png
+rmsd_collision_*.png
+rmsd_vs_collision*.png
+simhash_vs_rmsd.png
+hash_vs_*.png
+ibuprofen_*.png
+imatinib_*.png
+spearman_benchmark.png
+collision_vs_rmsd_final.png
+.env
+*.env
+.ipynb_checkpoints/
+VeryImportantBlockchain.txt
