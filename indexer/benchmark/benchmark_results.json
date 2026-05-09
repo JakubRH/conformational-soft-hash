@@ -1,0 +1,144 @@
+{
+  "config": {
+    "n_queries": 50,
+    "n_targets": 600,
+    "thresholds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      12,
+      15,
+      20
+    ],
+    "lsh_bands": 8,
+    "lsh_bits_per_band": 8
+  },
+  "results": [
+    {
+      "threshold": 1,
+      "true_positive": 50,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 5.521365419845097,
+      "latency_ms_min": 4.453030000149738,
+      "latency_ms_max": 14.939576001779642
+    },
+    {
+      "threshold": 2,
+      "true_positive": 100,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 5.224186740160803,
+      "latency_ms_min": 4.772298001626041,
+      "latency_ms_max": 6.010604000039166
+    },
+    {
+      "threshold": 3,
+      "true_positive": 150,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 5.616367080147029,
+      "latency_ms_min": 5.135772000357974,
+      "latency_ms_max": 6.455948001530487
+    },
+    {
+      "threshold": 4,
+      "true_positive": 200,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 7.230787739827065,
+      "latency_ms_min": 6.551922997459769,
+      "latency_ms_max": 8.608149997598957
+    },
+    {
+      "threshold": 5,
+      "true_positive": 250,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 8.16919618016982,
+      "latency_ms_min": 6.942522999452194,
+      "latency_ms_max": 12.758893997670384
+    },
+    {
+      "threshold": 6,
+      "true_positive": 250,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 7.113145039911615,
+      "latency_ms_min": 6.109245001425734,
+      "latency_ms_max": 8.387070000026142
+    },
+    {
+      "threshold": 8,
+      "true_positive": 300,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 7.7790275603183545,
+      "latency_ms_min": 6.935063000128139,
+      "latency_ms_max": 8.567877997847972
+    },
+    {
+      "threshold": 10,
+      "true_positive": 300,
+      "false_negative": 0,
+      "false_positive": 0,
+      "recall": 1.0,
+      "precision": 1.0,
+      "latency_ms_mean": 7.527875560044777,
+      "latency_ms_min": 6.783772998460336,
+      "latency_ms_max": 10.330598001019098
+    },
+    {
+      "threshold": 12,
+      "true_positive": 342,
+      "false_negative": 8,
+      "false_positive": 0,
+      "recall": 0.9771428571428571,
+      "precision": 1.0,
+      "latency_ms_mean": 8.779219900170574,
+      "latency_ms_min": 7.131391001166776,
+      "latency_ms_max": 11.470285997347673
+    },
+    {
+      "threshold": 15,
+      "true_positive": 342,
+      "false_negative": 9,
+      "false_positive": 0,
+      "recall": 0.9743589743589743,
+      "precision": 1.0,
+      "latency_ms_mean": 8.523767959995894,
+      "latency_ms_min": 7.088334001309704,
+      "latency_ms_max": 10.37330200051656
+    },
+    {
+      "threshold": 20,
+      "true_positive": 399,
+      "false_negative": 78,
+      "false_positive": 0,
+      "recall": 0.8364779874213837,
+      "precision": 1.0,
+      "latency_ms_mean": 8.613342580065364,
+      "latency_ms_min": 6.918229999428149,
+      "latency_ms_max": 10.990220001986017
+    }
+  ]
+}

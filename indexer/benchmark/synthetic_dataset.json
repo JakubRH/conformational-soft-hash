@@ -1,0 +1,5402 @@
+[
+  {
+    "csh_hash": "0x1c80317fa3b1799d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_base",
+    "sha256_id": "5b75f8dfaa25c29f506a0d2b3daab1a0",
+    "energy_x1000": -46722,
+    "family_id": 0,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x1c803177a3b1799d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var1",
+    "sha256_id": "0497ce06becea2ca1157b9d1f5abce0d",
+    "energy_x1000": -17902,
+    "family_id": 0,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x1c80317fb3b3799d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var2",
+    "sha256_id": "30a46325f43f51fc6988d7433ead3cdb",
+    "energy_x1000": 46530,
+    "family_id": 0,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x1cc0317fa3b1519d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var3",
+    "sha256_id": "46978c20702c092026a1aa3a58302773",
+    "energy_x1000": -45835,
+    "family_id": 0,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x1c80317f8bb17195000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var4",
+    "sha256_id": "844ef34043022f61ffe626850acc6a8c",
+    "energy_x1000": 16237,
+    "family_id": 0,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x1ea0317fb1b17995000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var5",
+    "sha256_id": "76347999da60725e6232f40c0b84d93a",
+    "energy_x1000": 27236,
+    "family_id": 0,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x5c092177a3b17d9c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var6",
+    "sha256_id": "c0d5cef146c3334ff35cb4d8ba3ec289",
+    "energy_x1000": 5392,
+    "family_id": 0,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x1ea1397fa2d35bfd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var7",
+    "sha256_id": "c1b9b646ac2b1daa4cd98b152858433d",
+    "energy_x1000": 29131,
+    "family_id": 0,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x1c8850e182356929000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var8",
+    "sha256_id": "eeb0f631e0418d5fed5b705747bb9847",
+    "energy_x1000": -43994,
+    "family_id": 0,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x944e2e3f82771ded000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_000_var9",
+    "sha256_id": "06e5ade16d7ba7e189ed4ad19c87c945",
+    "energy_x1000": 20010,
+    "family_id": 0,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x3eabedcbbaa80dd4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_base",
+    "sha256_id": "1231de4014be517e65339da0b802536b",
+    "energy_x1000": -28583,
+    "family_id": 1,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x36abedcbbaa80dd4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var1",
+    "sha256_id": "c90aab2eb3de56441121713413406d4c",
+    "energy_x1000": -265,
+    "family_id": 1,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x3eabedcfaaa80dd4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var2",
+    "sha256_id": "167e5839363957ad3ce905aa7d2d56c8",
+    "energy_x1000": 39733,
+    "family_id": 1,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x3eabefcb9aa80d54000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var3",
+    "sha256_id": "cf0d11747eacfee2c2febf0d8b9f383b",
+    "energy_x1000": -45793,
+    "family_id": 1,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x3ea3eccfbaa80cd4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var4",
+    "sha256_id": "61a59bb53055431b54569e7e1efdfccd",
+    "energy_x1000": -22347,
+    "family_id": 1,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xbaafeccbb2a80dd4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var5",
+    "sha256_id": "fb7a67b51b1a7c9ebeaf6a6aef6c9004",
+    "energy_x1000": -31274,
+    "family_id": 1,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x2eab6dc5baa98cd4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var6",
+    "sha256_id": "e2ce8a0c82b78398911532819dab3914",
+    "energy_x1000": 26622,
+    "family_id": 1,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x3ceaedea38284cfc000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var7",
+    "sha256_id": "e45ae3cc3ec7252dcef6cbc5fcead7d6",
+    "energy_x1000": -35629,
+    "family_id": 1,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x342fa48193a109c5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var8",
+    "sha256_id": "5a80b5ec7cf9c1543bd55327fac2c719",
+    "energy_x1000": -34986,
+    "family_id": 1,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x3e8c0e8e92851315000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_001_var9",
+    "sha256_id": "dfcbe1ee1fa16833e62835d4a5dd0f61",
+    "energy_x1000": -991,
+    "family_id": 1,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x295b4715c333e861000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_base",
+    "sha256_id": "07cece2b9217855a3b6fd1a015329fb6",
+    "energy_x1000": 20697,
+    "family_id": 2,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x295b4715c333e860000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var1",
+    "sha256_id": "c8f7936026df3799166cc156872b7d3d",
+    "energy_x1000": 28504,
+    "family_id": 2,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x695b4515c333e861000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var2",
+    "sha256_id": "3fc0102e4896a94d3aad857582622f78",
+    "energy_x1000": -47448,
+    "family_id": 2,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x295b0795c333a861000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var3",
+    "sha256_id": "c5f01dc401d3db98682203284e318365",
+    "energy_x1000": -18615,
+    "family_id": 2,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x695b47158333ece1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var4",
+    "sha256_id": "046dbb96556a6f468df848349d1a030b",
+    "energy_x1000": -40929,
+    "family_id": 2,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x391b4717c312e861000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var5",
+    "sha256_id": "0bd7f8d8f37cd788ed4b4964ebd8c79a",
+    "energy_x1000": -22240,
+    "family_id": 2,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xa95b6115d1bbe861000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var6",
+    "sha256_id": "0b205d14d7c8402629a937f2ecbcada6",
+    "energy_x1000": 17839,
+    "family_id": 2,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x3a1b473dc31328f3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var7",
+    "sha256_id": "dbc04813e7c580108ffe2bfadbcbe69b",
+    "energy_x1000": -49058,
+    "family_id": 2,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x2fdb621043110a7d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var8",
+    "sha256_id": "1f3b00a8df80dfa127159449db2b42dc",
+    "energy_x1000": -32658,
+    "family_id": 2,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x3cf6a915ad537829000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_002_var9",
+    "sha256_id": "1210386a68df166a80131f0572af00f9",
+    "energy_x1000": -17409,
+    "family_id": 2,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x30b187ef310c0c00000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_base",
+    "sha256_id": "b93c2e3cf4c8c6a3bdc6c50adddeacf6",
+    "energy_x1000": 20292,
+    "family_id": 3,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x32b187ef310c0c00000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var1",
+    "sha256_id": "cdec66b3a9be873eff5978bb7aa95797",
+    "energy_x1000": -31627,
+    "family_id": 3,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x30f187ef318c0c00000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var2",
+    "sha256_id": "993fcd3897d7f92091e3bab7592a3187",
+    "energy_x1000": -13491,
+    "family_id": 3,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x38b187efb10c0e00000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var3",
+    "sha256_id": "ebe1b9042f3f2e07a60fe428da532f99",
+    "energy_x1000": 8082,
+    "family_id": 3,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x30b187ef310c1442000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var4",
+    "sha256_id": "e2f9e305a8b596177fb9c0373bccc696",
+    "energy_x1000": 48771,
+    "family_id": 3,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x50a187ef712c0c00000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var5",
+    "sha256_id": "afcb4f8b890596e5d73d0b81c7267602",
+    "energy_x1000": -21984,
+    "family_id": 3,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x3ab987ef300d0809000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var6",
+    "sha256_id": "73a894ed86524f5bf964988d8d132063",
+    "energy_x1000": 9638,
+    "family_id": 3,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x30b5f3f7b9081e00000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var7",
+    "sha256_id": "12ba70d5f74f0de7200d03c48a19b745",
+    "energy_x1000": -21466,
+    "family_id": 3,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x592107c8711c00a8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var8",
+    "sha256_id": "9164c590fa524fbf4c8e8349fc1d9239",
+    "energy_x1000": -41019,
+    "family_id": 3,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x43719b1d371dada4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_003_var9",
+    "sha256_id": "52c0109296562d65be5c5faed3705f02",
+    "energy_x1000": 1876,
+    "family_id": 3,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xabf3e3fc21813d25000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_base",
+    "sha256_id": "389dfa49fcc27ae0013bede098975076",
+    "energy_x1000": 34607,
+    "family_id": 4,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xabf3e3bc21813d25000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var1",
+    "sha256_id": "e6726c8c44e45feddbee3ffb314c278b",
+    "energy_x1000": 9929,
+    "family_id": 4,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xabf3e2fc21813f25000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var2",
+    "sha256_id": "e8379f38d2e07612dce57557600ad122",
+    "energy_x1000": -48780,
+    "family_id": 4,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xaff3e3fc21812f25000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var3",
+    "sha256_id": "96ca412c6ec1ec715aec334588b29419",
+    "energy_x1000": 20468,
+    "family_id": 4,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xabf3f3fe29803d25000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var4",
+    "sha256_id": "78f925e7dcbdaf0de4f41f5afa5ea7c8",
+    "energy_x1000": -40984,
+    "family_id": 4,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xaaf363eca1913d25000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var5",
+    "sha256_id": "3ab81eb69477c2a156810660b6cc7cd0",
+    "energy_x1000": 21200,
+    "family_id": 4,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xabebe53e21813d24000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var6",
+    "sha256_id": "89b26c3db5a35b8a2d61e6ab87974156",
+    "energy_x1000": 22692,
+    "family_id": 4,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xb2f367b421803ee5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var7",
+    "sha256_id": "1368894c5d687584d52eaf5d9eed6529",
+    "energy_x1000": -14303,
+    "family_id": 4,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x8a33caada9a21d0d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var8",
+    "sha256_id": "5fa2b5b7f96943079d6da4882fb45ee0",
+    "energy_x1000": -44222,
+    "family_id": 4,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x2ba912d039203ab0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_004_var9",
+    "sha256_id": "d1f32e57f535d36a514b5e5f6cfb6cb2",
+    "energy_x1000": -33296,
+    "family_id": 4,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x4eea04e70ab54bde000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_base",
+    "sha256_id": "c936f1bf1537514f7a06e615d628aa35",
+    "energy_x1000": -2205,
+    "family_id": 5,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x4eea04e70ab54bfe000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var1",
+    "sha256_id": "edf3c61ce8591f1efaa8c56fb6661104",
+    "energy_x1000": -3102,
+    "family_id": 5,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x4eea04e78eb54bde000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var2",
+    "sha256_id": "1f3eadc5962dce41e2d63ccfba882570",
+    "energy_x1000": 37416,
+    "family_id": 5,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x4efa24e70ab56bde000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var3",
+    "sha256_id": "d6d186d6d6f273fb1ac3d4a7449f41d3",
+    "energy_x1000": 31351,
+    "family_id": 5,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x4eea04e74aed4bde000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var4",
+    "sha256_id": "8f6d61dd025a6113464f5787f1cc71f5",
+    "energy_x1000": 4040,
+    "family_id": 5,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x4efa00e78af54bd6000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var5",
+    "sha256_id": "822754e7be9b19d017fba9fdf5bf4a4e",
+    "energy_x1000": -15030,
+    "family_id": 5,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x4e2e14e70ba54b9a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var6",
+    "sha256_id": "1690d7528bf4e97aa3b9ed59b5eefe10",
+    "energy_x1000": 11694,
+    "family_id": 5,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x6abe04e73afd1bdc000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var7",
+    "sha256_id": "e713fa83f4ea2aff4ea378becbbf02af",
+    "energy_x1000": 36511,
+    "family_id": 5,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x3e680ee209d64b4c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var8",
+    "sha256_id": "9f952005e69fa60203cfb9617e7e778a",
+    "energy_x1000": -26595,
+    "family_id": 5,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x96af64b003645b1b000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_005_var9",
+    "sha256_id": "b2f04cae978369cfc41ee65a3350589c",
+    "energy_x1000": 6531,
+    "family_id": 5,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xf2e9702d11e9cdaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_base",
+    "sha256_id": "2430b1ce0155e874e922c56a507aefec",
+    "energy_x1000": 37062,
+    "family_id": 6,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xf2e9742d11e9cdaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var1",
+    "sha256_id": "7f333518451f0a87faf977c0f64c06de",
+    "energy_x1000": 31678,
+    "family_id": 6,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xf2e9712d11e94daa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var2",
+    "sha256_id": "a2c35e9fdf3a2e03658e7191e71e5ef5",
+    "energy_x1000": 44339,
+    "family_id": 6,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xf2f970ed11e9cdaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var3",
+    "sha256_id": "07746a644345717507c23805d8db9296",
+    "energy_x1000": -7247,
+    "family_id": 6,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xf2e1700d10e8cdaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var4",
+    "sha256_id": "5a4b2901519a7884afa731bc236f2f07",
+    "energy_x1000": 5108,
+    "family_id": 6,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xf2e0706d11a9cdab000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var5",
+    "sha256_id": "d04257ecf3399d68159285b879c9807a",
+    "energy_x1000": -10171,
+    "family_id": 6,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xf2ed725d19f9edaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var6",
+    "sha256_id": "a05f6f8928eb78404ea17a5d954d4ff4",
+    "energy_x1000": 10946,
+    "family_id": 6,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xf1edfc2c41e9e98a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var7",
+    "sha256_id": "d0461f3caf1cefba0c21eee5b4d54173",
+    "energy_x1000": -12804,
+    "family_id": 6,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xe6f07cad51e11f9c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var8",
+    "sha256_id": "3b3d627b2e192d23e60258b6d16a3aa6",
+    "energy_x1000": 9692,
+    "family_id": 6,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x71c84337bae917e3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_006_var9",
+    "sha256_id": "5b01af790433dddf4fb597cd97a6e391",
+    "energy_x1000": -34094,
+    "family_id": 6,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x222282e174daaebf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_base",
+    "sha256_id": "772b23e35d4110cfbcd4d0ef18d16deb",
+    "energy_x1000": 10901,
+    "family_id": 7,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x222283e174daaebf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var1",
+    "sha256_id": "0ac0a47ec1206f497f46ff2feb05265a",
+    "energy_x1000": 48992,
+    "family_id": 7,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x236282e174daaebf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var2",
+    "sha256_id": "0a4b9353329a0f3850c15cb5b7379c72",
+    "energy_x1000": 21810,
+    "family_id": 7,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x302282e174caaebf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var3",
+    "sha256_id": "17cc985c82ea03e5c050de3fca552e6e",
+    "energy_x1000": 8991,
+    "family_id": 7,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x622282ebf4daaebf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var4",
+    "sha256_id": "3618647d2512b0366dfefb01665362c4",
+    "energy_x1000": 32149,
+    "family_id": 7,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x232282f934daacbf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var5",
+    "sha256_id": "54c6612e852e2f608d464878536edc83",
+    "energy_x1000": -19265,
+    "family_id": 7,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xa02282e574eaad9f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var6",
+    "sha256_id": "aea3dd1e801a75ea24349079213f8755",
+    "energy_x1000": -19689,
+    "family_id": 7,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x2120b2e550fa8caf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var7",
+    "sha256_id": "0649d006fe2cb950d563799cf02d558f",
+    "energy_x1000": -41839,
+    "family_id": 7,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xb04992d13192aebc000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var8",
+    "sha256_id": "191d410690e4be2cd89ecc840c88895c",
+    "energy_x1000": 4921,
+    "family_id": 7,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x603ade55cff8eb9d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_007_var9",
+    "sha256_id": "0eb59b395d5df3c88765063bc480625b",
+    "energy_x1000": 34246,
+    "family_id": 7,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x22bd33886db99102000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_base",
+    "sha256_id": "312bc5a666caf306fca32bc294f4b8d0",
+    "energy_x1000": 10515,
+    "family_id": 8,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x22bd33886d399102000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var1",
+    "sha256_id": "812b9ea02c218a3d27e6e1dc0b752f02",
+    "energy_x1000": -43410,
+    "family_id": 8,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x22bc338a6db99102000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var2",
+    "sha256_id": "6d4c8119d22069fb9b24e674f1377516",
+    "energy_x1000": -7094,
+    "family_id": 8,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x26bd318865b99102000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var3",
+    "sha256_id": "c64e5f6c3e8457102328cd47839df327",
+    "energy_x1000": -5764,
+    "family_id": 8,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x229c33816db99102000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var4",
+    "sha256_id": "567868a739b9b52d82d9c8e8e78bb702",
+    "energy_x1000": -39265,
+    "family_id": 8,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x32bd23887db99146000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var5",
+    "sha256_id": "6c0db515778d3dab73650687f0f3f54f",
+    "energy_x1000": 35215,
+    "family_id": 8,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x02be31886db91004000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var6",
+    "sha256_id": "7888ca520ee8e0c713e11558a50c4fd3",
+    "energy_x1000": -23870,
+    "family_id": 8,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x22bd27180db93286000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var7",
+    "sha256_id": "7f74660fc25e0c763ac139fcd86275f7",
+    "energy_x1000": -16414,
+    "family_id": 8,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xc28f9bf86cb195c0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var8",
+    "sha256_id": "0b5320af9e538e4850435255d78d87d4",
+    "energy_x1000": 1990,
+    "family_id": 8,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x729f2efd675111d7000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_008_var9",
+    "sha256_id": "f91a97a0813a49d4d33c73ed154a95b8",
+    "energy_x1000": 5057,
+    "family_id": 8,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x7d7ddbedd284476c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_base",
+    "sha256_id": "ceed265eb3b0d84fa77fdd90a586f10e",
+    "energy_x1000": -36167,
+    "family_id": 9,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x7dfddbedd284476c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var1",
+    "sha256_id": "e63e6ffe5508f9aaa166b7df14a14471",
+    "energy_x1000": -2528,
+    "family_id": 9,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x797ddbedd28c476c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var2",
+    "sha256_id": "06781dce90bb322880ace65b32b95095",
+    "energy_x1000": 7080,
+    "family_id": 9,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x5d7ddbe9d2c4476c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var3",
+    "sha256_id": "93a3cec5f9e1656bea8243aafd64d8bc",
+    "energy_x1000": 10931,
+    "family_id": 9,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x7dfdd9e95284476c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var4",
+    "sha256_id": "a16f53442033d6cd16801b67a1bac200",
+    "energy_x1000": -38641,
+    "family_id": 9,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x777cdbe55284476c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var5",
+    "sha256_id": "91f8ba7ad7963a057e08479cc0477f90",
+    "energy_x1000": -5908,
+    "family_id": 9,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x3d3ddbed52d46f64000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var6",
+    "sha256_id": "eae49f91bbef3d4bbdda2030a788ec72",
+    "energy_x1000": -16138,
+    "family_id": 9,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x1c7dc3a7d286574d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var7",
+    "sha256_id": "a0e9f6804ee87eb01639e867151fff7c",
+    "energy_x1000": -18365,
+    "family_id": 9,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x3968e9e50080874e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var8",
+    "sha256_id": "926e6bf60b1feb02df7a40bb3df286df",
+    "energy_x1000": -18110,
+    "family_id": 9,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x78794f43ba7f1fec000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_009_var9",
+    "sha256_id": "d7ba4974d6bf2bc35cebd0788bd13bb8",
+    "energy_x1000": -24895,
+    "family_id": 9,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xbd1531c83764fbda000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_base",
+    "sha256_id": "02d79130b1a4d4fd0af210eb1c2dcb94",
+    "energy_x1000": 13464,
+    "family_id": 10,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xbd1531c03764fbda000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var1",
+    "sha256_id": "0539881301bab3e98072db5e149940b2",
+    "energy_x1000": 44972,
+    "family_id": 10,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xbd1531d83764ebda000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var2",
+    "sha256_id": "294f98f25ef3ff98dde5f10be17983e8",
+    "energy_x1000": -24557,
+    "family_id": 10,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xbd1571e81764fbda000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var3",
+    "sha256_id": "5e7b1084444bcc0bf6c945feb4496fcd",
+    "energy_x1000": -26481,
+    "family_id": 10,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xbd1531803765fbd8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var4",
+    "sha256_id": "fb6c26b63e98296ac4cd834bc82f3437",
+    "energy_x1000": -44035,
+    "family_id": 10,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xfd1531e83765db9a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var5",
+    "sha256_id": "9f7814edbca28e3161bf6399bc28504e",
+    "energy_x1000": -48393,
+    "family_id": 10,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xfd1531d86745f3d2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var6",
+    "sha256_id": "adcceef00fb427653093dacf28579f8e",
+    "energy_x1000": 12616,
+    "family_id": 10,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x9d2538d8b564b9c2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var7",
+    "sha256_id": "1f75179b5c36b8b0f5775eab3ed32381",
+    "energy_x1000": 23772,
+    "family_id": 10,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x38123102226c3b7a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var8",
+    "sha256_id": "0adca402e6d393132cd0dc4b96ea5f6c",
+    "energy_x1000": 27139,
+    "family_id": 10,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x2dd4b410236d57a3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_010_var9",
+    "sha256_id": "277083ab4129279b8c553f3f73ecd907",
+    "energy_x1000": 11592,
+    "family_id": 10,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x085b15fb4a8ff810000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_base",
+    "sha256_id": "883b1ab3805017d357de0f66800ae293",
+    "energy_x1000": -19660,
+    "family_id": 11,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x085b15eb4a8ff810000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var1",
+    "sha256_id": "349ccc23e3e870a579736fc53f027644",
+    "energy_x1000": 42662,
+    "family_id": 11,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x0c5b15eb4a8ff810000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var2",
+    "sha256_id": "2198c53b2ae26e45231ed69b3eea5ac8",
+    "energy_x1000": -40671,
+    "family_id": 11,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x085b15f9688ff810000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var3",
+    "sha256_id": "e55d9e9270b1d09487a80ffc09c5a838",
+    "energy_x1000": 5723,
+    "family_id": 11,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x085b15ff5a87b810000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var4",
+    "sha256_id": "7fdeec0650235086611931aad0918b4d",
+    "energy_x1000": -31357,
+    "family_id": 11,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x085b156b4aaffa90000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var5",
+    "sha256_id": "3b451b7a71ba9822783418d4c0d622e7",
+    "energy_x1000": 7560,
+    "family_id": 11,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x285b05fa68857810000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var6",
+    "sha256_id": "da4a6b0decde8dec18907a12b7d49787",
+    "energy_x1000": 20776,
+    "family_id": 11,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x995b95bb529ef836000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var7",
+    "sha256_id": "c1ebd0f1f04fd118318ffd73afb71c6b",
+    "energy_x1000": -38030,
+    "family_id": 11,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x64e81dcb2a8df016000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var8",
+    "sha256_id": "d070181eef9172c185093e7a0fe02761",
+    "energy_x1000": 18021,
+    "family_id": 11,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x0dc710d384f9f474000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_011_var9",
+    "sha256_id": "d1a9896264b45aafe2a2f176b139925f",
+    "energy_x1000": 9614,
+    "family_id": 11,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x50843242168b1625000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_base",
+    "sha256_id": "cc947ac67383a4958f1e7133e9089b6e",
+    "energy_x1000": -16918,
+    "family_id": 12,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x50843042168b1625000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var1",
+    "sha256_id": "c488c9fb7bf6e053d68b238614d90e74",
+    "energy_x1000": -34806,
+    "family_id": 12,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x508c3242168b1624000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var2",
+    "sha256_id": "b5ce3d3562678106740c2b74eb941c4b",
+    "energy_x1000": 36200,
+    "family_id": 12,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x58943242168b1665000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var3",
+    "sha256_id": "1f64b9a43db77853662dd435b07ea892",
+    "energy_x1000": -25414,
+    "family_id": 12,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xd1847242168b1665000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var4",
+    "sha256_id": "3328da7b7715f952f0e56f7c7bbde719",
+    "energy_x1000": -23320,
+    "family_id": 12,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x11843256168a1625000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var5",
+    "sha256_id": "855cd285847c2e1a96246a6d37e393d2",
+    "energy_x1000": -34085,
+    "family_id": 12,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x108c1302168b922d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var6",
+    "sha256_id": "8dc3e5f1bce366062f5a5ed3764b27ba",
+    "energy_x1000": -9270,
+    "family_id": 12,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x56a4304a328b5487000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var7",
+    "sha256_id": "c4e87a44ccc5f49aa01661c3e849b577",
+    "energy_x1000": 15323,
+    "family_id": 12,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x12a4922b73898525000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var8",
+    "sha256_id": "5d2e0199b01df7945600dcd8aab6e11f",
+    "energy_x1000": -40850,
+    "family_id": 12,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xb4d2766fc2e51424000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_012_var9",
+    "sha256_id": "fc93ca8ecfb9dfac9c772906562e3d17",
+    "energy_x1000": 49991,
+    "family_id": 12,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x6090d6978b1e3b9d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_base",
+    "sha256_id": "6beb64cea954019493ece9dc19036f8c",
+    "energy_x1000": 9682,
+    "family_id": 13,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x6090d4978b1e3b9d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var1",
+    "sha256_id": "047b99a3dd74f9b3e627d4007443880a",
+    "energy_x1000": -25273,
+    "family_id": 13,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x6092d697cb1e3b9d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var2",
+    "sha256_id": "829e0a25b4bc47d503270837fd4d1031",
+    "energy_x1000": -19387,
+    "family_id": 13,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x6080d7978b1e3bbd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var3",
+    "sha256_id": "ffc811f2e9f36e086bb66f1fd978e434",
+    "energy_x1000": 47609,
+    "family_id": 13,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x7093d6978b163b9d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var4",
+    "sha256_id": "80dd836d6d3c29ce07737c9165e16d99",
+    "energy_x1000": 14923,
+    "family_id": 13,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x6190d2978b1f2b8d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var5",
+    "sha256_id": "a168006bedbc5cf631cc9b7c58b74149",
+    "energy_x1000": -36931,
+    "family_id": 13,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x741094978f1e399c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var6",
+    "sha256_id": "5d68eab1c3931110203994b7538a7f3b",
+    "energy_x1000": -40193,
+    "family_id": 13,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xf0d4cc17893f3bbd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var7",
+    "sha256_id": "cdaddb1208056c3c0f48226ce5ec075a",
+    "energy_x1000": 19942,
+    "family_id": 13,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xd111ff130b0afb89000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var8",
+    "sha256_id": "64ea1fe384e2ed333df988432a7efc00",
+    "energy_x1000": 47880,
+    "family_id": 13,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x0011e78597c2b5d3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_013_var9",
+    "sha256_id": "bcb32a22d434b8b002a5d3b958888387",
+    "energy_x1000": 39364,
+    "family_id": 13,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x2e183554cae28e66000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_base",
+    "sha256_id": "2ab7093ba56e836103874308b6e6ce1f",
+    "energy_x1000": -27720,
+    "family_id": 14,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x2e183554caa28e66000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var1",
+    "sha256_id": "7acf79861bab26fbda6622fdca0c4c3f",
+    "energy_x1000": -39650,
+    "family_id": 14,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x2e1935548ae28e66000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var2",
+    "sha256_id": "28b4491f5a777de08e7285caa40939a5",
+    "energy_x1000": 15230,
+    "family_id": 14,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x26183554eae68e66000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var3",
+    "sha256_id": "7697afed521a7e217bd6e3f16cddc8f3",
+    "energy_x1000": 33611,
+    "family_id": 14,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x22183555cae28e64000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var4",
+    "sha256_id": "68bb84aad1bb9224f9186abf6eb5000d",
+    "energy_x1000": -12300,
+    "family_id": 14,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x2f182514caf28c66000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var5",
+    "sha256_id": "1474937050cc28a72fbf13ef29c537a1",
+    "energy_x1000": 33746,
+    "family_id": 14,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xae582554ebeb9e66000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var6",
+    "sha256_id": "54060dc9e9ad599a8ba81fe35a1baafd",
+    "energy_x1000": 13335,
+    "family_id": 14,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x3c382144cba62e64000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var7",
+    "sha256_id": "c5b5c8ca9d6f6261e4f1c4c1f1dba005",
+    "energy_x1000": 1879,
+    "family_id": 14,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x389ebc0c4aa6ce6f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var8",
+    "sha256_id": "ee94985888424ab258e93dfe9652921a",
+    "energy_x1000": -25080,
+    "family_id": 14,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x6eff7a75de7e8702000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_014_var9",
+    "sha256_id": "95e399673f54ee4237e48ce6884591ad",
+    "energy_x1000": -23682,
+    "family_id": 14,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xc958e75e21d53971000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_base",
+    "sha256_id": "7d2a94c473f110252afdcc2a43ff5708",
+    "energy_x1000": 20701,
+    "family_id": 15,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xc958a75e21d53971000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var1",
+    "sha256_id": "fbdef9e86a09db9016cbd4be6f4e9c1a",
+    "energy_x1000": 19579,
+    "family_id": 15,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xc958e75a21f53971000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var2",
+    "sha256_id": "8941283741fbcc4dfc25342a9dcca357",
+    "energy_x1000": -16319,
+    "family_id": 15,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xe958ef7e21d53971000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var3",
+    "sha256_id": "c9b18fd43d89554a2f097ef88be71e9f",
+    "energy_x1000": -34905,
+    "family_id": 15,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xc158e75e31d13b71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var4",
+    "sha256_id": "80566464696d3e91fd9b865970e976d9",
+    "energy_x1000": 38647,
+    "family_id": 15,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xc95ca75c21d53173000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var5",
+    "sha256_id": "9680c0d3c013aeeb253571f4753a30fb",
+    "energy_x1000": 20329,
+    "family_id": 15,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xd9586f7e0154b971000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var6",
+    "sha256_id": "dd8e338ec88a5df0859b12d2a351a57e",
+    "energy_x1000": -59,
+    "family_id": 15,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xda586fd661c57933000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var7",
+    "sha256_id": "2328eda9b747dda08b60f196932e7daa",
+    "energy_x1000": 34889,
+    "family_id": 15,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x6f08f45e85ddb8b5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var8",
+    "sha256_id": "3fe2a41175bf1e5a470abd37cd5c225e",
+    "energy_x1000": 20457,
+    "family_id": 15,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x5ddc30fa94571b35000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_015_var9",
+    "sha256_id": "f51814eca94225cc3ebfe2e1bdc068e1",
+    "energy_x1000": -19053,
+    "family_id": 15,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x5cd8fe1adafec8a9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_base",
+    "sha256_id": "7a65495083e4b81b1ef84a3af4808622",
+    "energy_x1000": -36978,
+    "family_id": 16,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x5cd87e1adafec8a9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var1",
+    "sha256_id": "7eb955b26170331733a319764933fdf2",
+    "energy_x1000": 21364,
+    "family_id": 16,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x5cd8de1adafec829000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var2",
+    "sha256_id": "5b8165f9cde67ec20a0364bf1f58c65c",
+    "energy_x1000": 2184,
+    "family_id": 16,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x5cd8fe12dbfe48a9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var3",
+    "sha256_id": "11a26ded36014aa319299c1599be7e7c",
+    "energy_x1000": 9600,
+    "family_id": 16,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x5cd8fe1ad2fec0ed000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var4",
+    "sha256_id": "a8c4727f3fb7893586c4043a69d67d07",
+    "energy_x1000": -6287,
+    "family_id": 16,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x5cd8fe1a56ffc9a9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var5",
+    "sha256_id": "c2cfe81c610c6312d1f03689c2e89480",
+    "energy_x1000": -19461,
+    "family_id": 16,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x5edefa5adafccaa8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var6",
+    "sha256_id": "ffc0a1aab1b59976706f2518d463f273",
+    "energy_x1000": -31036,
+    "family_id": 16,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xdc50fa1edabfc12a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var7",
+    "sha256_id": "1871845dec8c6f8a39d1a7025fbb2bd1",
+    "energy_x1000": -18814,
+    "family_id": 16,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x5eda7c398e7fc133000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var8",
+    "sha256_id": "ffc0d34f3b6de8f52f7676a6dad9ed73",
+    "energy_x1000": -35707,
+    "family_id": 16,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x4e5cb09920f688d7000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_016_var9",
+    "sha256_id": "45b07074dbb86da6f5c5aaae48a34bb9",
+    "energy_x1000": -7781,
+    "family_id": 16,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x25f934bf9bb96155000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_base",
+    "sha256_id": "742fb80c060273a9c8f8bacafd1b1c8d",
+    "energy_x1000": -41391,
+    "family_id": 17,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x25f934bf9bb86155000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var1",
+    "sha256_id": "f008f38334b5d17ffec4223315b06830",
+    "energy_x1000": -13954,
+    "family_id": 17,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x25f836bf9bb96155000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var2",
+    "sha256_id": "0a6b06518ea9efc9c564551a3687a7c8",
+    "energy_x1000": 28301,
+    "family_id": 17,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x2179349f9bb96155000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var3",
+    "sha256_id": "253612fd5b6cdfd3f60cfec8f42ae2ee",
+    "energy_x1000": -37001,
+    "family_id": 17,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x277934bf93b92155000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var4",
+    "sha256_id": "bc8c521319a5951c9a297de24279e222",
+    "energy_x1000": -20051,
+    "family_id": 17,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x21c13cbf9bb96155000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var5",
+    "sha256_id": "00d70de979fc5bd2198ed09646377611",
+    "energy_x1000": 45631,
+    "family_id": 17,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x65f930bf93287355000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var6",
+    "sha256_id": "5ac6c779422ea76eb30be1800ebf2d83",
+    "energy_x1000": 40023,
+    "family_id": 17,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x1d51b4bf93396125000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var7",
+    "sha256_id": "aa2ede24a9d1e11f5bd26362b0de07a4",
+    "energy_x1000": -32946,
+    "family_id": 17,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x97f870d797d561dd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var8",
+    "sha256_id": "c22986ab3474531cd406c301caec7e7c",
+    "energy_x1000": -3910,
+    "family_id": 17,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xe4a82a26d37b0397000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_017_var9",
+    "sha256_id": "0252e4d4f9215a6ab8b7d9f8d7058dc9",
+    "energy_x1000": 29822,
+    "family_id": 17,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xa867a096edd877c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_base",
+    "sha256_id": "f7c502dc1aff39f44c0704911ae7a075",
+    "energy_x1000": 40894,
+    "family_id": 18,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xa867a092edd877c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var1",
+    "sha256_id": "1faf9601912ef17eb3a9834ef4d36538",
+    "energy_x1000": -46206,
+    "family_id": 18,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xa867a092ed5877c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var2",
+    "sha256_id": "a248e01ec59d07123b08786e568a33d6",
+    "energy_x1000": 42104,
+    "family_id": 18,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xa867b816edd877c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var3",
+    "sha256_id": "f31bfe12004c57566bf1c497477063d6",
+    "energy_x1000": -49200,
+    "family_id": 18,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xa86fa096ed5c76c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var4",
+    "sha256_id": "7e9e9a5c43504e86f05094ae8207f132",
+    "energy_x1000": -31405,
+    "family_id": 18,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xa846a096e5d87fc0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var5",
+    "sha256_id": "c44a977861bce4db5153a223e33d414d",
+    "energy_x1000": 9460,
+    "family_id": 18,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xa865e886ed4073c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var6",
+    "sha256_id": "5b2a737809872473f7de192b3fd86e35",
+    "energy_x1000": 28148,
+    "family_id": 18,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x0966a816fdda71e0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var7",
+    "sha256_id": "c6a400db95fa8d99430ce621aee903c0",
+    "energy_x1000": 36761,
+    "family_id": 18,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x6824a8f7719e5748000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var8",
+    "sha256_id": "63e434e8e73a1075412703bb844d28ec",
+    "energy_x1000": 19066,
+    "family_id": 18,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x8b74a05266c51e45000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_018_var9",
+    "sha256_id": "7b06ead504b4b60a0b004ac03726390a",
+    "energy_x1000": 15570,
+    "family_id": 18,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xd556b37d8f0881ee000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_base",
+    "sha256_id": "f1bba1ffc46c3e55f230c67fa31d7a09",
+    "energy_x1000": 37562,
+    "family_id": 19,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xd556937d8f0881ee000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var1",
+    "sha256_id": "f721e0b8a9705f30ff8f86b0407edd5f",
+    "energy_x1000": -40553,
+    "family_id": 19,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xd552b37d8f0881ce000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var2",
+    "sha256_id": "5567fa6f761c4cac7c72b035f6eea5a7",
+    "energy_x1000": 7176,
+    "family_id": 19,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xd156b37d8f0883ea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var3",
+    "sha256_id": "d0fae0bd6985e43b36448ebda91269d1",
+    "energy_x1000": -8967,
+    "family_id": 19,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xd53eb35d8f0881ee000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var4",
+    "sha256_id": "8155de1844bc9836fe402e7ab0a2538c",
+    "energy_x1000": -34904,
+    "family_id": 19,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xd15eb17d8f2881ea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var5",
+    "sha256_id": "18a88b2b8d5bfc814f7e65c8bab2a338",
+    "energy_x1000": 40388,
+    "family_id": 19,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xf516f35d8708018e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var6",
+    "sha256_id": "4f29e4bcc7bd6e55404d829b3c919b51",
+    "energy_x1000": 2487,
+    "family_id": 19,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x51d4337c8d20c5fe000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var7",
+    "sha256_id": "97daf132b7f6a7fe4885950f2e0b5de7",
+    "energy_x1000": 32998,
+    "family_id": 19,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xcf0cf17e8f4953ae000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var8",
+    "sha256_id": "97709d3486169aff8c5e7fdd15c2b67d",
+    "energy_x1000": -27260,
+    "family_id": 19,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xa66d98cd3f108bfe000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_019_var9",
+    "sha256_id": "6c25824b2441e0ba4e0399ff304cb02e",
+    "energy_x1000": -41050,
+    "family_id": 19,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x71348c2a780b3657000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_base",
+    "sha256_id": "6e1a6424ae4dffb339ec08c0ba32d5b5",
+    "energy_x1000": 32756,
+    "family_id": 20,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x71348c6a780b3657000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var1",
+    "sha256_id": "f48f9f4b5b6000c22d27c85875538e78",
+    "energy_x1000": -13998,
+    "family_id": 20,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x7134ac2a780b36d7000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var2",
+    "sha256_id": "5119264bb066cb5c07b2e6281ae5975b",
+    "energy_x1000": 16497,
+    "family_id": 20,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x79348caa780b3457000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var3",
+    "sha256_id": "c73324b6320f332f2c96001097b6dbfa",
+    "energy_x1000": 9233,
+    "family_id": 20,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x71340c3a780b36c7000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var4",
+    "sha256_id": "2a34d073f3ad7cfdf092692a3671e042",
+    "energy_x1000": -39943,
+    "family_id": 20,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x7b368c2a780b3e77000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var5",
+    "sha256_id": "25ad633ef0a741ae3c840384fa617dbe",
+    "energy_x1000": 24928,
+    "family_id": 20,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x71348c6b291b345f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var6",
+    "sha256_id": "e1f5bbbb49002aa98259c2fc1101cb9b",
+    "energy_x1000": -36434,
+    "family_id": 20,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x1114a62b680bbe73000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var7",
+    "sha256_id": "295e5b8715ad3659ce11e359d6623b87",
+    "energy_x1000": 18690,
+    "family_id": 20,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x35b3876a7dbf364f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var8",
+    "sha256_id": "d6255061b9fe565ff6fbed58651d01ab",
+    "energy_x1000": -37613,
+    "family_id": 20,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x76dfda427a663577000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_020_var9",
+    "sha256_id": "8472e57a7418e40f64450610756f961b",
+    "energy_x1000": -628,
+    "family_id": 20,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xcaaa5bbea4bbf962000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_base",
+    "sha256_id": "a7799e3016a6fc81e62eb3279a0dd6e9",
+    "energy_x1000": -6946,
+    "family_id": 21,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xcaaa5bbea4baf962000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var1",
+    "sha256_id": "fe05e6091d1fb69c999b87c2bc1b14c8",
+    "energy_x1000": 37833,
+    "family_id": 21,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xcaea5bbea4bbf162000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var2",
+    "sha256_id": "a69feb943e88f8a0facbc8cb7ce83e41",
+    "energy_x1000": 16648,
+    "family_id": 21,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xcaaa1b3ea4bbf966000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var3",
+    "sha256_id": "a8d626a1ab71f30a56483829ba65f7f8",
+    "energy_x1000": -26373,
+    "family_id": 21,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x8aaa53beadbbf962000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var4",
+    "sha256_id": "7a32a75dbb27d931218468e1254ae49e",
+    "energy_x1000": -20307,
+    "family_id": 21,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xcaaa5b9ea4b1eb62000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var5",
+    "sha256_id": "010247663a0fe96d85572008834816b0",
+    "energy_x1000": 16543,
+    "family_id": 21,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xcba85f7ea49bf872000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var6",
+    "sha256_id": "583e52ef085fd20953a2ff4f74ca7154",
+    "energy_x1000": -623,
+    "family_id": 21,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x8a800b3eb4b3f566000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var7",
+    "sha256_id": "a00b9336fa8cc675f98ac9e400b9ad83",
+    "energy_x1000": 3852,
+    "family_id": 21,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x52af933af4372962000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var8",
+    "sha256_id": "f82e9e70273b956a50c0d7b0ac415ce3",
+    "energy_x1000": 38907,
+    "family_id": 21,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x7bb059f5c13eecaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_021_var9",
+    "sha256_id": "3061792ea4be893148c8a57ae586fe30",
+    "energy_x1000": -39007,
+    "family_id": 21,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x290a3abbc35b9fea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_base",
+    "sha256_id": "b028d3d61c56b105c83ce3dc0577e185",
+    "energy_x1000": -14245,
+    "family_id": 22,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x2b0a3abbc35b9fea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var1",
+    "sha256_id": "822f986ad418fe151e93f0c3eb073ad5",
+    "energy_x1000": 17286,
+    "family_id": 22,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x298a3abbc35f9fea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var2",
+    "sha256_id": "cfe924d4be63cc32285026f08ae48d7d",
+    "energy_x1000": -37979,
+    "family_id": 22,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x2b0a2abbd35b9fea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var3",
+    "sha256_id": "af036e6d56f215c556a0cee9258a021b",
+    "energy_x1000": -46505,
+    "family_id": 22,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x292ebabbc35b9faa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var4",
+    "sha256_id": "461e402fdb6fafc4226b8966796fb9e2",
+    "energy_x1000": -19097,
+    "family_id": 22,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x2908babbd35b9be2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var5",
+    "sha256_id": "3483a8c815bcb8cdd23acf6a18ade099",
+    "energy_x1000": -8230,
+    "family_id": 22,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x292e18bbc37b8cea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var6",
+    "sha256_id": "772be4a01a5df873e06b51de60134c42",
+    "energy_x1000": -44980,
+    "family_id": 22,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x1d2b0a2b935b9eea000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var7",
+    "sha256_id": "5eacd80ba66b8075ba645762e662bef0",
+    "energy_x1000": -49312,
+    "family_id": 22,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x29387af1cb563960000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var8",
+    "sha256_id": "977cd9c23e5dad2e505751b86f3325c6",
+    "energy_x1000": -18748,
+    "family_id": 22,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xf92d1b6e6b1f1d79000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_022_var9",
+    "sha256_id": "c678e172a6bc19c5b5605b4cdda66610",
+    "energy_x1000": 4600,
+    "family_id": 22,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xaa143cd82ff3cde4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_base",
+    "sha256_id": "229287eb6f71ca6ec0f4590b335deb7b",
+    "energy_x1000": 37584,
+    "family_id": 23,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xaa143cd82ff3c9e4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var1",
+    "sha256_id": "2a6a3f2c06827b8d2df2b254521e9f16",
+    "energy_x1000": 18614,
+    "family_id": 23,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xaa147cd82ff3cce4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var2",
+    "sha256_id": "e491f1eb50089de5179bd51b026330c4",
+    "energy_x1000": 18951,
+    "family_id": 23,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xba163cd82ff3cde0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var3",
+    "sha256_id": "66ce40551242e3089b8ef6130543f63a",
+    "energy_x1000": -44294,
+    "family_id": 23,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xaa16bcd92ff3cde0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var4",
+    "sha256_id": "71a9d1201ba0e93ddc280acd64c22532",
+    "energy_x1000": -3195,
+    "family_id": 23,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xaa1428d86ff3ece4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var5",
+    "sha256_id": "ddbd7aac110756b7f2f453a12ed1f293",
+    "energy_x1000": -32514,
+    "family_id": 23,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xaa243edc2f93c5c4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var6",
+    "sha256_id": "c59496babd0c9ded856170fd6deb03db",
+    "energy_x1000": 39742,
+    "family_id": 23,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xe21e0dd84ff3c4f4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var7",
+    "sha256_id": "15504fd9aeef3e0ec23d8993042d2dff",
+    "energy_x1000": -45153,
+    "family_id": 23,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xc1003efd6deadde0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var8",
+    "sha256_id": "ada447ec122116dd114f916a7a30d90e",
+    "energy_x1000": -12499,
+    "family_id": 23,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x69be8edab451c54c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_023_var9",
+    "sha256_id": "a5e3efc82c674716d26e3507a4a653b1",
+    "energy_x1000": 45300,
+    "family_id": 23,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x14348f626cac028c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_base",
+    "sha256_id": "88d73e74d6021df209658e624446d4a9",
+    "energy_x1000": 6440,
+    "family_id": 24,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x14348f626c2c028c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var1",
+    "sha256_id": "4fa852a3ffb63748af1b8bf06f7418c9",
+    "energy_x1000": 21496,
+    "family_id": 24,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x14348d426cac028c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var2",
+    "sha256_id": "6910fd766884f211e471be6e19db8c3a",
+    "energy_x1000": -36553,
+    "family_id": 24,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x14348d426cac068c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var3",
+    "sha256_id": "3eb0eadb3176193b0b9f5d164c5b2fc6",
+    "energy_x1000": -9827,
+    "family_id": 24,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x17748f626c8c028c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var4",
+    "sha256_id": "fa9816b5815fdfedaa86ec2a1cf5b603",
+    "energy_x1000": -3923,
+    "family_id": 24,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x16b4af6a6cac02ac000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var5",
+    "sha256_id": "964987e77c144392292d71e72d3dffd7",
+    "energy_x1000": 33816,
+    "family_id": 24,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x143c8a636e2c021c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var6",
+    "sha256_id": "b20ffc31a44b708977b7ee2c4c03e227",
+    "energy_x1000": 48290,
+    "family_id": 24,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x047087227cbc019a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var7",
+    "sha256_id": "7f4b7dddfdadf879b8a25c7b27ab0991",
+    "energy_x1000": -19068,
+    "family_id": 24,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x4c55c7307d2c0198000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var8",
+    "sha256_id": "4485cb5ea8e72ad8a33fa59e2d8602be",
+    "energy_x1000": -1904,
+    "family_id": 24,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x90722de8fdbbbb0e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_024_var9",
+    "sha256_id": "99f75a446842097677a1b1c78c4926fa",
+    "energy_x1000": -40294,
+    "family_id": 24,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x2c33350c73b911d8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_base",
+    "sha256_id": "6647827cef2438016294606a88a4a2f5",
+    "energy_x1000": 43502,
+    "family_id": 25,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x2d33350c73b911d8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var1",
+    "sha256_id": "a21493bfcbe55e7d0d1c49e5ef588fd0",
+    "energy_x1000": -38494,
+    "family_id": 25,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x2c33240c73b911d8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var2",
+    "sha256_id": "7def7e0b1f771759dc4de34ea65bc627",
+    "energy_x1000": 43000,
+    "family_id": 25,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x2c33356c73b910d8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var3",
+    "sha256_id": "caf8c444747a64dbed8122f348933d4e",
+    "energy_x1000": -29356,
+    "family_id": 25,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x2c33750c63f991d8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var4",
+    "sha256_id": "0662dcc9ce3bd8a4550bcb4d51bfc2ab",
+    "energy_x1000": -23658,
+    "family_id": 25,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xac33750c33bb11d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var5",
+    "sha256_id": "99d4e4632967b4a8945109a9b8f1cae7",
+    "energy_x1000": 22616,
+    "family_id": 25,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x2d3bb58453b910f8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var6",
+    "sha256_id": "bfc5ca049b98179d19de28aff7de0902",
+    "energy_x1000": -41383,
+    "family_id": 25,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x2e21559e35b911c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var7",
+    "sha256_id": "b29e341e82aa223d1d2f4b7aee569b04",
+    "energy_x1000": -33574,
+    "family_id": 25,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xac913e274bf918c8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var8",
+    "sha256_id": "67474e84b433c55fafe4cb257b042ab3",
+    "energy_x1000": -42737,
+    "family_id": 25,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x743a148373e6c6f8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_025_var9",
+    "sha256_id": "bbc81cd91f795845b410e78825423766",
+    "energy_x1000": 34015,
+    "family_id": 25,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x9780c2152b2bb8e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_base",
+    "sha256_id": "55700ef0c3dbd780a812d448ac4cda87",
+    "energy_x1000": 26106,
+    "family_id": 26,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x9780c2152b23b8e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var1",
+    "sha256_id": "14015d29810b710d65058f6381f19a67",
+    "energy_x1000": -27561,
+    "family_id": 26,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x9780ca152b2bb8c9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var2",
+    "sha256_id": "114661b3194ae067c42f4f8e0e984f43",
+    "energy_x1000": -46282,
+    "family_id": 26,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x9780c2172b2bbcc9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var3",
+    "sha256_id": "2cbc26eba6d38f545119e92c9b566b7a",
+    "energy_x1000": 35344,
+    "family_id": 26,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x17a0c2152f2bb8e1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var4",
+    "sha256_id": "3d99b8f751c730c0524178995e057538",
+    "energy_x1000": 32203,
+    "family_id": 26,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xb788c275ab2bb8e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var5",
+    "sha256_id": "9219a3634921764eec64d8bad62ec123",
+    "energy_x1000": -11015,
+    "family_id": 26,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x9380d2157f2bbcf1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var6",
+    "sha256_id": "ca45b3e54aed1b22ab7ae02b72157b3f",
+    "energy_x1000": 10875,
+    "family_id": 26,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x9f00a2552d5bbbe9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var7",
+    "sha256_id": "f341a98c1b55647b9cfdcc4567cd335e",
+    "energy_x1000": 49701,
+    "family_id": 26,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x8380429c1e3d3a21000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var8",
+    "sha256_id": "7f0c30ed1b89e39e60a62535a843bb96",
+    "energy_x1000": -17459,
+    "family_id": 26,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x7fbd822489730ccb000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_026_var9",
+    "sha256_id": "e83478568ac2c39f21b5ed0774851ab4",
+    "energy_x1000": -43623,
+    "family_id": 26,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x4806f8040cf0374c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_base",
+    "sha256_id": "c69c096ef31b57c8742ab314d745e21d",
+    "energy_x1000": 14866,
+    "family_id": 27,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x5806f8040cf0374c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var1",
+    "sha256_id": "4b3eb47172d8b7cd9a98260f12e00a5c",
+    "energy_x1000": -12547,
+    "family_id": 27,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x4806f8040cf0174e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var2",
+    "sha256_id": "581afea68a0af243c4dd9faac3d2e77d",
+    "energy_x1000": 6482,
+    "family_id": 27,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x4806b8060cf2374c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var3",
+    "sha256_id": "aee59ca4bee63c3bc404addce8dc5ea2",
+    "energy_x1000": 2855,
+    "family_id": 27,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x480eb8040cf0372c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var4",
+    "sha256_id": "ed56f9b67730fbb616b25bbd539c50aa",
+    "energy_x1000": 24747,
+    "family_id": 27,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x4804b8140df0354c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var5",
+    "sha256_id": "95cf6c367ab6dbb8c8a426a6a75d361a",
+    "energy_x1000": 16093,
+    "family_id": 27,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x4e17f08c0cf2374c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var6",
+    "sha256_id": "76eb345fd53134c769eff00a43258d7b",
+    "energy_x1000": -34428,
+    "family_id": 27,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x0003f80c0e51250c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var7",
+    "sha256_id": "66e2a98bc9a057efbf8680a20a2f4854",
+    "energy_x1000": 28966,
+    "family_id": 27,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xbc0ed8c76cc03448000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var8",
+    "sha256_id": "3f5198e9f9610fe5d4a1b4a5cf190071",
+    "energy_x1000": -8250,
+    "family_id": 27,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x47a750b1ca4837ce000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_027_var9",
+    "sha256_id": "a06881ddade06a780484fc46db619913",
+    "energy_x1000": 45069,
+    "family_id": 27,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xb023a0eadf41e335000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_base",
+    "sha256_id": "6bd1d6e57cc8fab0c4bbf72317e1669c",
+    "energy_x1000": 32478,
+    "family_id": 28,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xb023a0eadf41e33d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var1",
+    "sha256_id": "b7dd56059b580be5141957370acdf6a1",
+    "energy_x1000": 28238,
+    "family_id": 28,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xa023a0e8df41e335000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var2",
+    "sha256_id": "2fe91f15e48697861a9e49f526d0a6a5",
+    "energy_x1000": 35929,
+    "family_id": 28,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x9023a0eaff41e375000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var3",
+    "sha256_id": "11465e7f779a85168f3a6fc6997ea735",
+    "energy_x1000": -27651,
+    "family_id": 28,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xb022a0ea5f45e325000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var4",
+    "sha256_id": "d470381768dd9eff8616972e02b41b99",
+    "energy_x1000": 25047,
+    "family_id": 28,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xb123a1eade41a331000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var5",
+    "sha256_id": "8db004b980f05678990a8e73d5dda719",
+    "energy_x1000": 4890,
+    "family_id": 28,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xf021b06bdb49c335000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var6",
+    "sha256_id": "079cdec35d53e3693cb0d0286a6bfb5f",
+    "energy_x1000": 11814,
+    "family_id": 28,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xa22384e09e51c2b5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var7",
+    "sha256_id": "9f5161ce40753ce5ddc101e7c0fedf9b",
+    "energy_x1000": -27301,
+    "family_id": 28,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x16a9fa6e9f20f335000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var8",
+    "sha256_id": "49394730eba198b8f15582b29faa3cf9",
+    "energy_x1000": -17689,
+    "family_id": 28,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x5721d0f61c1f83b5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_028_var9",
+    "sha256_id": "fa060fab003b89f8d791c1971abc9f0b",
+    "energy_x1000": -30802,
+    "family_id": 28,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x0ac4de854a5b1aff000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_base",
+    "sha256_id": "08a2edcc2400ca3543b3b3edbf1f68a5",
+    "energy_x1000": -12300,
+    "family_id": 29,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x0ac4de854a5b1eff000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var1",
+    "sha256_id": "9c7ffbb92bec544ff005cafe1d92bb47",
+    "energy_x1000": -4602,
+    "family_id": 29,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x0bc4de844a5b1aff000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var2",
+    "sha256_id": "00dbe7354e89bdbfa7943b5253c8ac2a",
+    "energy_x1000": 47955,
+    "family_id": 29,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x2ac4de85405b1aff000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var3",
+    "sha256_id": "097a608b3f9e36048aa3a68015835426",
+    "energy_x1000": 20592,
+    "family_id": 29,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x0ac4de810a593aff000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var4",
+    "sha256_id": "83e81896fc5baddfa9827d267e43081a",
+    "energy_x1000": -18221,
+    "family_id": 29,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x0ad4de857a5b0abf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var5",
+    "sha256_id": "b905944dd141a5c0fefb164143007a60",
+    "energy_x1000": -6708,
+    "family_id": 29,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x1ac6d68d4a5b1fbe000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var6",
+    "sha256_id": "76e75c657792a8cf2f627ef10cc05684",
+    "energy_x1000": 3334,
+    "family_id": 29,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x3ec7dc850a4f0ad7000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var7",
+    "sha256_id": "459f82584f460e7fbbb7a447b0ded9c7",
+    "energy_x1000": 35498,
+    "family_id": 29,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x24201e81ec5f12fb000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var8",
+    "sha256_id": "d407b3d3e01df748636c2f101d2d4584",
+    "energy_x1000": -48786,
+    "family_id": 29,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x8746dcd2ea7c073e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_029_var9",
+    "sha256_id": "7b09f16a716ea2be2b27f698554c0001",
+    "energy_x1000": 46549,
+    "family_id": 29,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xca6fbff8564cfbd2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_base",
+    "sha256_id": "6814026a4766f43a8507eacf5ff3933d",
+    "energy_x1000": -11331,
+    "family_id": 30,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xca6fbff8574cfbd2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var1",
+    "sha256_id": "747a20e4f5ee51d287c9345fb2c4e472",
+    "energy_x1000": -26998,
+    "family_id": 30,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xca27bff8564cfbd2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var2",
+    "sha256_id": "3c6cc9c59cf4ea3adbf23c3a18c3c9fb",
+    "energy_x1000": 17538,
+    "family_id": 30,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xca67bdf8564cf3d2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var3",
+    "sha256_id": "e548e2a23920a19e68e638a194af0e5b",
+    "energy_x1000": 37720,
+    "family_id": 30,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xea6fbff856ceebd2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var4",
+    "sha256_id": "e79e9c0ca754d35ca0bf181482f43f95",
+    "energy_x1000": -7585,
+    "family_id": 30,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xca6dbffa964cfbd3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var5",
+    "sha256_id": "2f30bdb584d6cac82be1aa3801532f01",
+    "energy_x1000": 8554,
+    "family_id": 30,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xea6fffcc5664fbd3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var6",
+    "sha256_id": "d8a562d614422af319704b768a049e97",
+    "energy_x1000": -15718,
+    "family_id": 30,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xca6fe3f974447f5a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var7",
+    "sha256_id": "b8246d8815c9610a5efd674c2aae652b",
+    "energy_x1000": 42216,
+    "family_id": 30,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x4cef2e3832c8b852000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var8",
+    "sha256_id": "074788b8763e67d4c401694db601b842",
+    "energy_x1000": 42004,
+    "family_id": 30,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x9b7093a746cc5b6a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_030_var9",
+    "sha256_id": "c9833d9d763a9caeb5cdfeb0fa96551e",
+    "energy_x1000": -23503,
+    "family_id": 30,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x89628f6e929c93b3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_base",
+    "sha256_id": "396db0c3c77bbfdf43530ee38aae79f0",
+    "energy_x1000": -30359,
+    "family_id": 31,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x89628f6e92bc93b3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var1",
+    "sha256_id": "105fb191d4298d2866e2fc40f3d8ef01",
+    "energy_x1000": -6993,
+    "family_id": 31,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x88628f6e929cd3b3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var2",
+    "sha256_id": "fe58d1a3ac2ca712ea4ae2616523ddca",
+    "energy_x1000": 39167,
+    "family_id": 31,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xc9628f6e969c9bb3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var3",
+    "sha256_id": "6bd1938f995930087909c7f41c8d332e",
+    "energy_x1000": 16895,
+    "family_id": 31,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x8f628f6e929d9333000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var4",
+    "sha256_id": "de9bec8e7cb8e28175b55a5853c3984f",
+    "energy_x1000": 17272,
+    "family_id": 31,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x85428fee929c9333000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var5",
+    "sha256_id": "e10cf27104cd170640798dc485d1ef47",
+    "energy_x1000": 44801,
+    "family_id": 31,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x89720f4e909db3b6000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var6",
+    "sha256_id": "f8889b8f66fc0a5bdbd70d3c3f180c18",
+    "energy_x1000": -40428,
+    "family_id": 31,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x81629f6aded8938f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var7",
+    "sha256_id": "cc85867facddd0f823e44d3f9b226c1d",
+    "energy_x1000": -26410,
+    "family_id": 31,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xa020c16a875e9293000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var8",
+    "sha256_id": "79211e62220124b23fda6e30f1bc2d69",
+    "energy_x1000": -34451,
+    "family_id": 31,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x4f0bc768b9d650b0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_031_var9",
+    "sha256_id": "1b5480df12a6f4e389dc31742769109a",
+    "energy_x1000": -25296,
+    "family_id": 31,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xe00da49deffa2002000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_base",
+    "sha256_id": "fe909be35d7c532ca8c6178e5091f204",
+    "energy_x1000": 45030,
+    "family_id": 32,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xe00da49deffa6002000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var1",
+    "sha256_id": "c1814d356fa774679ac22f0c4e0f9453",
+    "energy_x1000": -45778,
+    "family_id": 32,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xe02da49deffa2006000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var2",
+    "sha256_id": "80a9c3e4c3773546a3959020416c0986",
+    "energy_x1000": -18456,
+    "family_id": 32,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xe00da49debfa3102000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var3",
+    "sha256_id": "2e16ed653416ea35651fc72ac7727845",
+    "energy_x1000": 27849,
+    "family_id": 32,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xe20da49d6ffa2052000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var4",
+    "sha256_id": "6386bf1e0037996a6bec6413f8df1965",
+    "energy_x1000": 47064,
+    "family_id": 32,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xe105a49dc7fa2022000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var5",
+    "sha256_id": "2526be7ee487e1c62f5c4900c37f0c06",
+    "energy_x1000": 48878,
+    "family_id": 32,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xe01de48ceffe6182000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var6",
+    "sha256_id": "d32f2efa0750fc49c053ace9bb13ba77",
+    "energy_x1000": -8201,
+    "family_id": 32,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xc10da29febf0e20a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var7",
+    "sha256_id": "8dd4958a5d0cc9238d131a70d01e6bb5",
+    "energy_x1000": 22970,
+    "family_id": 32,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x6008bb9762aa220a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var8",
+    "sha256_id": "992ab6c75489e9ad830e1e602217c6f7",
+    "energy_x1000": -10694,
+    "family_id": 32,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x464404938af3cb0a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_032_var9",
+    "sha256_id": "0942d4df7a82b6c182514f4b0badca04",
+    "energy_x1000": -6712,
+    "family_id": 32,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x143df5b3a58e83dd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_base",
+    "sha256_id": "cbe27e2a408b55e7fe2a797c1419f7d7",
+    "energy_x1000": 8954,
+    "family_id": 33,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x143d75b3a58e83dd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var1",
+    "sha256_id": "2baf27f4ffe4ae3d964f76b2ff69c615",
+    "energy_x1000": -37881,
+    "family_id": 33,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x143df5b3a48e839d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var2",
+    "sha256_id": "927efaaf6466745fa7dfc2a215179035",
+    "energy_x1000": -14813,
+    "family_id": 33,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x143cf5b3a58e81fd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var3",
+    "sha256_id": "8e216da739d32b2e399594c80ec57bc9",
+    "energy_x1000": -25338,
+    "family_id": 33,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x343df1b3a98e83dd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var4",
+    "sha256_id": "c92897f92ac5bfc24e664e9154a5c31e",
+    "energy_x1000": -10261,
+    "family_id": 33,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x343df5b3ac8e03df000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var5",
+    "sha256_id": "db73797c96108fd22a83b7ed73c24caa",
+    "energy_x1000": -18203,
+    "family_id": 33,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x103ff5bba39a03dd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var6",
+    "sha256_id": "42547a044d21eec46f132560e3d39892",
+    "energy_x1000": -106,
+    "family_id": 33,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x1c35f7b60547839d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var7",
+    "sha256_id": "c248c9594f931e6de6f3f750d5d4b694",
+    "energy_x1000": 44688,
+    "family_id": 33,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x801c758ba11fe1db000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var8",
+    "sha256_id": "69c060ffd0210d444dbb149f4b0428ef",
+    "energy_x1000": 25909,
+    "family_id": 33,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x9c953bab04eb54dd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_033_var9",
+    "sha256_id": "902b226cb4d54e8935925895a9f91a52",
+    "energy_x1000": 44412,
+    "family_id": 33,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x7d024c6d8bea75c1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_base",
+    "sha256_id": "9a2e7cd5d552ddd113542a75fcd9db61",
+    "energy_x1000": -25877,
+    "family_id": 34,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x7d024c6d8bea7541000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var1",
+    "sha256_id": "fe697316ddd35e18179c0384441c86a1",
+    "energy_x1000": 18674,
+    "family_id": 34,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x7d024c6d8bea77d1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var2",
+    "sha256_id": "4bd6b5b23bc9d3209b1e64d907d675e4",
+    "energy_x1000": 37584,
+    "family_id": 34,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x7d124c6d8bea7580000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var3",
+    "sha256_id": "8d56c51a51924ba1856b49e0f5557b94",
+    "energy_x1000": -31979,
+    "family_id": 34,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x7d024c6dabe274c3000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var4",
+    "sha256_id": "4ef4ea571a791d5291226037df375f97",
+    "energy_x1000": -21332,
+    "family_id": 34,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x1902cc6d8bea7541000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var5",
+    "sha256_id": "7f2e8f225b594bac6625126d13978428",
+    "energy_x1000": -47939,
+    "family_id": 34,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xfd020c638fea75c2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var6",
+    "sha256_id": "68328cfacdaabfe01af66545c828b055",
+    "energy_x1000": -13990,
+    "family_id": 34,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x7d5a547e83ea7d83000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var7",
+    "sha256_id": "c66a4954c3bb5b8ce718b140cbdace95",
+    "energy_x1000": -30484,
+    "family_id": 34,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x7d565cffe929a5e1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var8",
+    "sha256_id": "5061bf747013996ce073bb762d3bec53",
+    "energy_x1000": -10682,
+    "family_id": 34,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xafc35f7740ca71ac000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_034_var9",
+    "sha256_id": "f9018db2c74071c134e200e20ad77e08",
+    "energy_x1000": -44423,
+    "family_id": 34,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x361f6d903ad1fa33000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_base",
+    "sha256_id": "bf1d38fb29d664bc7453adf54e32c26e",
+    "energy_x1000": 40739,
+    "family_id": 35,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x261f6d903ad1fa33000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var1",
+    "sha256_id": "444e7e955b2f83ea4c646da6fcd375b4",
+    "energy_x1000": -14468,
+    "family_id": 35,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x361f6d903ad1f813000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var2",
+    "sha256_id": "c396e564d68edb5779082eb34a901424",
+    "energy_x1000": 39709,
+    "family_id": 35,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x361f6d983a91fa23000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var3",
+    "sha256_id": "1842b2680958b0e8fc3d4a8545881660",
+    "energy_x1000": -8780,
+    "family_id": 35,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x361b6d903ed5fa37000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var4",
+    "sha256_id": "f7936bd16ffe5db503c1236703f99f66",
+    "energy_x1000": -39916,
+    "family_id": 35,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x361d69d07ac1fa33000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var5",
+    "sha256_id": "e1ac63a61b4b4dff3bb4dcb31a05b499",
+    "energy_x1000": 311,
+    "family_id": 35,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x361bbd913a93fa13000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var6",
+    "sha256_id": "a6c490f463e330d11f16cafac61dddc1",
+    "energy_x1000": -42962,
+    "family_id": 35,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x353d6d5030f1aa23000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var7",
+    "sha256_id": "78b805eef6e7609b509c4e7f21c7d359",
+    "energy_x1000": -7222,
+    "family_id": 35,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x365b6038a393b21b000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var8",
+    "sha256_id": "2533512ca62ce923d42e8aef22d5aa91",
+    "energy_x1000": -11285,
+    "family_id": 35,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x6808cc90ab4bf942000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_035_var9",
+    "sha256_id": "8d4d34daa70eed77cfeea5e376dde086",
+    "energy_x1000": -25439,
+    "family_id": 35,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x72e76b516e54ac6d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_base",
+    "sha256_id": "6c56019d48ae421d76390ee1b8b6f72a",
+    "energy_x1000": 23005,
+    "family_id": 36,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x72f76b516e54ac6d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var1",
+    "sha256_id": "dd3bdf065675d22fa7865a386693237c",
+    "energy_x1000": -36462,
+    "family_id": 36,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x72e76b516e54a465000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var2",
+    "sha256_id": "a36a89ec59a64662f5c88f5f74dfab06",
+    "energy_x1000": -3612,
+    "family_id": 36,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x72e569516e54a46d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var3",
+    "sha256_id": "b825fc83ca69f5dcd489db186985f731",
+    "energy_x1000": -48383,
+    "family_id": 36,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x72f56b716e54a86d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var4",
+    "sha256_id": "319db502fc2e38f997367d5814c2e0d7",
+    "energy_x1000": 45006,
+    "family_id": 36,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x72e66b55ee76ac6d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var5",
+    "sha256_id": "e5e79230a7b466c669cf6d2a4d4393e7",
+    "energy_x1000": -10531,
+    "family_id": 36,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x72e76b55e256aa7d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var6",
+    "sha256_id": "acd394ea0c3ad337ddc627f8b934bc08",
+    "energy_x1000": -10711,
+    "family_id": 36,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x52e32a91eed53c7d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var7",
+    "sha256_id": "03158e69e5437c8246c2c8338452b4f9",
+    "energy_x1000": 10012,
+    "family_id": 36,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x14cf6991757c8d6c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var8",
+    "sha256_id": "c8b65e7fad584d0b64041ad7c8c66908",
+    "energy_x1000": -7970,
+    "family_id": 36,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xcef3fa65adc234ed000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_036_var9",
+    "sha256_id": "14fa5fd835ca96ee8d99a81a876a2423",
+    "energy_x1000": 39353,
+    "family_id": 36,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x8cd34c62c4829b71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_base",
+    "sha256_id": "279985698e9e38922219c8fc7bd353f2",
+    "energy_x1000": -46473,
+    "family_id": 37,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x84d34c62c4829b71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var1",
+    "sha256_id": "9007800fbc2aeb2159311c1513b1aa6a",
+    "energy_x1000": 42847,
+    "family_id": 37,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x8dd34c62c0829b71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var2",
+    "sha256_id": "20a4a42eba9f2bfe0ff7bcea8d0203c6",
+    "energy_x1000": -11815,
+    "family_id": 37,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x0cc34c62c4829a71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var3",
+    "sha256_id": "00dda584aaca2e81eb40443df92ba83b",
+    "energy_x1000": -31758,
+    "family_id": 37,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x8cd34c23848a9b71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var4",
+    "sha256_id": "3b57c7ab49c8365be2b7106aac6e63a5",
+    "energy_x1000": 43747,
+    "family_id": 37,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xae924c62c4829971000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var5",
+    "sha256_id": "6d3c8fbdaa303e6ae31fef70e1990460",
+    "energy_x1000": 26315,
+    "family_id": 37,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x805b5c67c0829b71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var6",
+    "sha256_id": "44bd58a673570aa0e7d81fbc3226fb73",
+    "energy_x1000": 21256,
+    "family_id": 37,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xaedf5d26c4029b01000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var7",
+    "sha256_id": "409c7039272ff75975c2cf7dacb65abf",
+    "energy_x1000": -17464,
+    "family_id": 37,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xaed466f2cea39f34000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var8",
+    "sha256_id": "9b02fde7271a2bad576e12d3fce74ff1",
+    "energy_x1000": -20902,
+    "family_id": 37,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x04e15443b26eb993000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_037_var9",
+    "sha256_id": "4d92735da9d0b4fe980795a3b833382f",
+    "energy_x1000": 18303,
+    "family_id": 37,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x592a35497ba109d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_base",
+    "sha256_id": "0e3f618e213dc2e86c6f3943706d6b4a",
+    "energy_x1000": 12411,
+    "family_id": 38,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x592a35497ba119d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var1",
+    "sha256_id": "134e0b7958a249ac0ad83a2be48025d9",
+    "energy_x1000": 7431,
+    "family_id": 38,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x5b2a34497ba109d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var2",
+    "sha256_id": "a47741bd8a67ff4cfde8e4e370d2a492",
+    "energy_x1000": -41196,
+    "family_id": 38,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x592a35097ba149f0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var3",
+    "sha256_id": "e7fd8c9bfb5e251c1f8fb7b71941ea7c",
+    "energy_x1000": -47040,
+    "family_id": 38,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x592a3d49fb8129d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var4",
+    "sha256_id": "28cf3fb2163f1220a38e950cfa2570ef",
+    "energy_x1000": 17632,
+    "family_id": 38,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x516a31497bf109d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var5",
+    "sha256_id": "fabbf9123f44b63ac7c5d47338364e26",
+    "energy_x1000": -19611,
+    "family_id": 38,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x3922304971a101d0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var6",
+    "sha256_id": "1d43fc222271dae4a0c6be14d7b8a258",
+    "energy_x1000": -46174,
+    "family_id": 38,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x5a2b156960a329d1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var7",
+    "sha256_id": "7b8bac98e618314e723af91e54a919d1",
+    "energy_x1000": -41800,
+    "family_id": 38,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x5ba2300fda303150000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var8",
+    "sha256_id": "e3702fdcb595797e5771f67b9d0548e0",
+    "energy_x1000": 30125,
+    "family_id": 38,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xa8d65de95bf98070000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_038_var9",
+    "sha256_id": "a529807360af6969cfe52ea80fc5ef66",
+    "energy_x1000": -1071,
+    "family_id": 38,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x243012dab1850eb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_base",
+    "sha256_id": "4538e3791090f1119c01ba1c2d03d0cb",
+    "energy_x1000": 16954,
+    "family_id": 39,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x243212dab1850eb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var1",
+    "sha256_id": "938d66326e3386311a45128d6decd4dc",
+    "energy_x1000": 4819,
+    "family_id": 39,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x243212dab1870eb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var2",
+    "sha256_id": "9cb26cd588e5b60664320c75463f8f4d",
+    "energy_x1000": 5448,
+    "family_id": 39,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x643012dab1450eb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var3",
+    "sha256_id": "163c732bd7444fed2094e2637a1e023b",
+    "energy_x1000": 22733,
+    "family_id": 39,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x643012cab1a70eb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var4",
+    "sha256_id": "4e0a8e8a737ffba9550bec4666f743e6",
+    "energy_x1000": -25477,
+    "family_id": 39,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x263033dab1850efa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var5",
+    "sha256_id": "b19547fd4882916bba84544a02c92550",
+    "energy_x1000": 13518,
+    "family_id": 39,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x242010d330871eb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var6",
+    "sha256_id": "98b6ce92e7c808c269d83755e8d446b9",
+    "energy_x1000": 3626,
+    "family_id": 39,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x641532ca25850a9a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var7",
+    "sha256_id": "13b88b8a6e102cc301226d3c52e902c3",
+    "energy_x1000": -21095,
+    "family_id": 39,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x256292e711834a3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var8",
+    "sha256_id": "725af4cce30247a9814a27dfb1ddc8cb",
+    "energy_x1000": -35031,
+    "family_id": 39,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x93a3d0dea94caedc000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_039_var9",
+    "sha256_id": "466bf015476e9f464f1d7fc6cd16e64d",
+    "energy_x1000": 7549,
+    "family_id": 39,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xfe7402cddd83ad03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_base",
+    "sha256_id": "a8fc52915836e0bbfea9102179441ca7",
+    "energy_x1000": -34614,
+    "family_id": 40,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xfe7402cd9d83ad03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var1",
+    "sha256_id": "440969a5aff54a9ea895b4f163ac9907",
+    "energy_x1000": -22491,
+    "family_id": 40,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xfe3412cddd83ad03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var2",
+    "sha256_id": "41d9738db05c812fd19896f30f51e603",
+    "energy_x1000": -28245,
+    "family_id": 40,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xfe7402cdd981ad83000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var3",
+    "sha256_id": "46edf9a6996b66bc258abbb5a2e28148",
+    "energy_x1000": 24720,
+    "family_id": 40,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xfe7410c5dda3ad03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var4",
+    "sha256_id": "a69820fd175479b9155c1a9693da5661",
+    "energy_x1000": 42281,
+    "family_id": 40,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xfe6402e9dd81bd03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var5",
+    "sha256_id": "938cdca93675ae242efef8a7112bb8ce",
+    "energy_x1000": -42230,
+    "family_id": 40,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xaef410c5dd832c03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var6",
+    "sha256_id": "56bb5c2bd3d870c5b631c4aac94a8b6a",
+    "energy_x1000": -30832,
+    "family_id": 40,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xbe5509dd5f812f03000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var7",
+    "sha256_id": "4162b570f6d1447da4b04d8536732808",
+    "energy_x1000": 32288,
+    "family_id": 40,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xff5293cc6e11ad33000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var8",
+    "sha256_id": "3c4eeea74b8793dfee2e8979a7dd5347",
+    "energy_x1000": 26278,
+    "family_id": 40,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xf6b2d7c177f58d32000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_040_var9",
+    "sha256_id": "12ba6fae1541de41d03aee14df5feafe",
+    "energy_x1000": 25750,
+    "family_id": 40,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x90eeb067216e9fe5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_base",
+    "sha256_id": "4192b7203d6cd8d5b34e588d4f0cebb0",
+    "energy_x1000": 13614,
+    "family_id": 41,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x90eeb867216e9fe5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var1",
+    "sha256_id": "0a0f628d2a490eb460fa0e7d6300e770",
+    "energy_x1000": 39463,
+    "family_id": 41,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x90eeb067216e9f85000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var2",
+    "sha256_id": "96a2141a405cb3d14fe6e95596306123",
+    "energy_x1000": -36949,
+    "family_id": 41,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x94eeb067216e1fe1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var3",
+    "sha256_id": "847ddb4409ac081e1e5980dbbd583255",
+    "energy_x1000": -29293,
+    "family_id": 41,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x95aeb067216e9fe4000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var4",
+    "sha256_id": "95370febe744e30293ba56f5fbca769b",
+    "energy_x1000": -23482,
+    "family_id": 41,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x90eeb02f217f97e5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var5",
+    "sha256_id": "f609c30fd7585bac619bec7f2f00dcd5",
+    "energy_x1000": 35798,
+    "family_id": 41,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x92eef66721ef9bc5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var6",
+    "sha256_id": "32dfe8b1dc2fe8ce0852172763162d55",
+    "energy_x1000": -43213,
+    "family_id": 41,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x90ebc3672966df85000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var7",
+    "sha256_id": "769f30a417f49d9db5c3d5f76fd70247",
+    "energy_x1000": -49858,
+    "family_id": 41,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x40bea845794ede74000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var8",
+    "sha256_id": "e7159038ca4fd0eff44faab121c785bc",
+    "energy_x1000": -40717,
+    "family_id": 41,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xd4c5faf510f69894000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_041_var9",
+    "sha256_id": "42e23f36d828dceaa2017ba9c2daf390",
+    "energy_x1000": -3970,
+    "family_id": 41,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x368acd40b8f14e3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_base",
+    "sha256_id": "a129412b379466b05838ec3b5c378db8",
+    "energy_x1000": 32323,
+    "family_id": 42,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x368acd40b8f94e3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var1",
+    "sha256_id": "0abededb3acfae385eafee04b889ca62",
+    "energy_x1000": 3963,
+    "family_id": 42,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x378acd40b0f14e3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var2",
+    "sha256_id": "980b2ef82e31a0debd112a82461faa6d",
+    "energy_x1000": -38638,
+    "family_id": 42,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x368acd40b8f3de3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var3",
+    "sha256_id": "d18914d0d60a29a179f2f8b05060779a",
+    "energy_x1000": 27276,
+    "family_id": 42,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x36c8dc40b8f14e3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var4",
+    "sha256_id": "87bf17471af8d2119d577f6d146388e4",
+    "energy_x1000": -31673,
+    "family_id": 42,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x368acd5838f14a34000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var5",
+    "sha256_id": "0ad4d00be93878f8e70a89f1759f8ac4",
+    "energy_x1000": 36298,
+    "family_id": 42,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xb68a4d03baf17e3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var6",
+    "sha256_id": "7f2c03d338b6ea579ff1c36ad75ff3a2",
+    "energy_x1000": -11263,
+    "family_id": 42,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x788ecc0039f1cefc000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var7",
+    "sha256_id": "17ccec5c04dd3965559034d6a301e5a3",
+    "energy_x1000": -40693,
+    "family_id": 42,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xfe2bc554fd61472e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var8",
+    "sha256_id": "ee7019c8afba49fd6a6292c98625a5a9",
+    "energy_x1000": 26986,
+    "family_id": 42,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x372cf4c5b6f66d11000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_042_var9",
+    "sha256_id": "8555ef05e9a4cacf2727d33eed51c7ed",
+    "energy_x1000": -39043,
+    "family_id": 42,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x143ac1c54f560ed5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_base",
+    "sha256_id": "2ea1b4a17143b97cf85d1d0b20258e70",
+    "energy_x1000": 17017,
+    "family_id": 43,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x143ac1c54b560ed5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var1",
+    "sha256_id": "984a15ecd9eaa7f875f26cfb81c6596a",
+    "energy_x1000": -29635,
+    "family_id": 43,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x143ec3c54f560ed5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var2",
+    "sha256_id": "3dc4a0aaf4e8b908c6148f3d30c3d423",
+    "energy_x1000": 26865,
+    "family_id": 43,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x14bac1454f560fd5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var3",
+    "sha256_id": "33a964e595337c4c8424ec1d8c7c697d",
+    "energy_x1000": 45677,
+    "family_id": 43,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x143ac1c58f560655000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var4",
+    "sha256_id": "2f33ce5a769009cf7f1b48fd1180c96e",
+    "energy_x1000": 6948,
+    "family_id": 43,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x103ac1454f164e55000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var5",
+    "sha256_id": "faa0dd70d4db85077d2c7bcc3dfbafef",
+    "energy_x1000": -34345,
+    "family_id": 43,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x143af1c5cf160bd6000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var6",
+    "sha256_id": "02423aaab3291696ff37e538d0bcd6e8",
+    "energy_x1000": 18551,
+    "family_id": 43,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x10b801c74fd40b57000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var7",
+    "sha256_id": "5e292220b1a79b14da40d0b2b3fc63fb",
+    "energy_x1000": -6090,
+    "family_id": 43,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x8672e0d6efd50acd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var8",
+    "sha256_id": "0e89101affdae50e95366077df482ccc",
+    "energy_x1000": -29382,
+    "family_id": 43,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x96a109dc0ad6c410000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_043_var9",
+    "sha256_id": "d09f3675c6a5e5145cc87e95bd0fadbf",
+    "energy_x1000": -7821,
+    "family_id": 43,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x6a8fcacb3f8e2d0d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_base",
+    "sha256_id": "98b424d25a8a4deaf4ba015f2ec5fe44",
+    "energy_x1000": 44409,
+    "family_id": 44,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x6a8fcbcb3f8e2d0d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var1",
+    "sha256_id": "60bc94347a4754c1dcb37e18b95f75ca",
+    "energy_x1000": -14446,
+    "family_id": 44,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x6a8f4acb3f8e2f0d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var2",
+    "sha256_id": "7d6f2e60fb83f65050c3504cc2af1003",
+    "energy_x1000": -34350,
+    "family_id": 44,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x6a8fcacb2fce2d4d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var3",
+    "sha256_id": "36ca78346921d8a0c03e51d7c09d26f1",
+    "energy_x1000": 17603,
+    "family_id": 44,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x6287cacb3f8e2c2d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var4",
+    "sha256_id": "82430d29f60ef88ae8efb9847005be62",
+    "energy_x1000": -12998,
+    "family_id": 44,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x6e8fc84b3f8e250f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var5",
+    "sha256_id": "fd81de1e6c94680bf3560f2db63e7693",
+    "energy_x1000": -1646,
+    "family_id": 44,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x6a8b4a5b3d82ad0d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var6",
+    "sha256_id": "c4a2071ebf83cfdafe8a22cf63033cc5",
+    "energy_x1000": 10807,
+    "family_id": 44,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x7a880aefbf8ebf0d000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var7",
+    "sha256_id": "981d802aadeb8792ed80a267f21f9aac",
+    "energy_x1000": -49165,
+    "family_id": 44,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x6a3e1fcf3ee66d4e000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var8",
+    "sha256_id": "47430d8ab24a844cae71f31fac86c3f6",
+    "energy_x1000": -23105,
+    "family_id": 44,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x2b8f3be8d90c6e71000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_044_var9",
+    "sha256_id": "f36b23cb257fe1df5661bf206854a7d5",
+    "energy_x1000": 24425,
+    "family_id": 44,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x6f5b09a60ff1c51f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_base",
+    "sha256_id": "4af1f246a52f9347160020cfe5315abe",
+    "energy_x1000": 36827,
+    "family_id": 45,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x6f5b09a60ff0c51f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var1",
+    "sha256_id": "d988f4922c3092ed67ba28ec11351eb0",
+    "energy_x1000": -18966,
+    "family_id": 45,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x6f5b09840ff1c51f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var2",
+    "sha256_id": "5723442967cec5f19efee24cb79f3352",
+    "energy_x1000": -8712,
+    "family_id": 45,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x6f5f0aa60ff1c51f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var3",
+    "sha256_id": "8cddc20f0d892eca847940a2fe890568",
+    "energy_x1000": 9343,
+    "family_id": 45,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x6f5b09a22df1c71f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var4",
+    "sha256_id": "f5cd58a246b92f177fe2cc1832d98ca8",
+    "energy_x1000": -32160,
+    "family_id": 45,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x655b09a60fd9e51f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var5",
+    "sha256_id": "b9ce3eba520f458870076ce81989e4b0",
+    "energy_x1000": -8840,
+    "family_id": 45,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x6f4909a21fb9e59f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var6",
+    "sha256_id": "536247dbbc839c38e4c4668c044532ed",
+    "energy_x1000": 10731,
+    "family_id": 45,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x6f0331e40ff9c1bf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var7",
+    "sha256_id": "b091c4c8e1c8c1bbb1444a6825c499f7",
+    "energy_x1000": -44714,
+    "family_id": 45,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x4f3b21a705a84f35000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var8",
+    "sha256_id": "7931e581cefbd1af0578cca99e158a83",
+    "energy_x1000": 9270,
+    "family_id": 45,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x2d750686ad7094e6000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_045_var9",
+    "sha256_id": "11b04899eed969b646a66f2b0df7817a",
+    "energy_x1000": -47143,
+    "family_id": 45,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x10813d45ff45f8a2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_base",
+    "sha256_id": "ef74ed4b8d485dd2ba6f6d152a61def8",
+    "energy_x1000": -24081,
+    "family_id": 46,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x11813d45ff45f8a2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var1",
+    "sha256_id": "bc73befbf486df8f41107a4d3ccd3fb7",
+    "energy_x1000": -33120,
+    "family_id": 46,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x10813945ff45f0a2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var2",
+    "sha256_id": "8420608e2a2dd7975f7dcb4407bd5123",
+    "energy_x1000": -33941,
+    "family_id": 46,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x18813d45ff45f8c2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var3",
+    "sha256_id": "5305262120ec81054dbc967d5b3e9f40",
+    "energy_x1000": -27982,
+    "family_id": 46,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x90053d45ff45f8aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var4",
+    "sha256_id": "03e49961b3cd6fa13f9aa0f4f3c78c97",
+    "energy_x1000": 165,
+    "family_id": 46,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x10c11d45f785f8a2000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var5",
+    "sha256_id": "2c440d34c89148cb5515c7708a66b49b",
+    "energy_x1000": -13958,
+    "family_id": 46,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x17813dcdef45faa6000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var6",
+    "sha256_id": "a53bf852710054850ffeb3b1c48a5b0f",
+    "energy_x1000": -17785,
+    "family_id": 46,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x31813d6d3a47f98a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var7",
+    "sha256_id": "13f5589e1e5280946a527303f79e2757",
+    "energy_x1000": -23857,
+    "family_id": 46,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x89cd1c503e15f8a0000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var8",
+    "sha256_id": "f89dadea94921f0c413b908bf3bdc6e1",
+    "energy_x1000": 905,
+    "family_id": 46,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0xb5eb2923bf1734e8000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_046_var9",
+    "sha256_id": "764fac48e80852da5be236e609ea023c",
+    "energy_x1000": -21242,
+    "family_id": 46,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xd8b48ead93608edf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_base",
+    "sha256_id": "321dc81827d182ea646a5a9140dad8b5",
+    "energy_x1000": 911,
+    "family_id": 47,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xd8b4aead93608edf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var1",
+    "sha256_id": "b9bfd6b80fd7c24e2c1bb839c3ff960a",
+    "energy_x1000": -27232,
+    "family_id": 47,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xd8b48eadd3208edf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var2",
+    "sha256_id": "55ade5da586ae4c1e1093e8ec884a041",
+    "energy_x1000": 27662,
+    "family_id": 47,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0xd8b4afad93608ed7000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var3",
+    "sha256_id": "c9eec3b7bdab82af921e9d643c3b38f3",
+    "energy_x1000": 42202,
+    "family_id": 47,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x58b4aead92648edf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var4",
+    "sha256_id": "89e82e1a5735b1b5bcf58312934cce0c",
+    "energy_x1000": 21057,
+    "family_id": 47,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x98b48e2d932086cf000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var5",
+    "sha256_id": "284c295450006970ea5133672a9db0f2",
+    "energy_x1000": -42638,
+    "family_id": 47,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xd8b48eeff340cedc000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var6",
+    "sha256_id": "aa5f630290e2915898a676ce21c32424",
+    "energy_x1000": 30495,
+    "family_id": 47,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x987caead915087d5000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var7",
+    "sha256_id": "afa1adbbcaceaa113488c7a25ef8b9c1",
+    "energy_x1000": -30640,
+    "family_id": 47,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xda76aa8f91dc8f0f000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var8",
+    "sha256_id": "91a8dfa4a9eb273d34fde49efff5b76e",
+    "energy_x1000": -29356,
+    "family_id": 47,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x9a703915123cc7de000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_047_var9",
+    "sha256_id": "5b7614baa29a83c75da08aeb2ce5658f",
+    "energy_x1000": 1327,
+    "family_id": 47,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0xfe8956c8d9cb3540000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_base",
+    "sha256_id": "fa755400f2129f679919a44b0ae346f1",
+    "energy_x1000": 24381,
+    "family_id": 48,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0xfe8956c8d9cb3550000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var1",
+    "sha256_id": "dc921b95535207132d4cd15a9579a6d1",
+    "energy_x1000": -26135,
+    "family_id": 48,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0xfe8957c8c9cb3540000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var2",
+    "sha256_id": "60ad3d821b8f09509bd942eeb4acc10f",
+    "energy_x1000": 33839,
+    "family_id": 48,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x7e8956c8d9cf1540000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var3",
+    "sha256_id": "2a20e0d06c62c0f8a8aabfd718c47555",
+    "energy_x1000": -6594,
+    "family_id": 48,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0xfe8947c899cb3740000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var4",
+    "sha256_id": "e751e99792410294e9c67ff87e6ebdbc",
+    "energy_x1000": -27995,
+    "family_id": 48,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0xfc8952cad9cb3d42000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var5",
+    "sha256_id": "49da560335cc4dd221b5b05123935be1",
+    "energy_x1000": -22517,
+    "family_id": 48,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0xfe8d06c8598a3510000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var6",
+    "sha256_id": "f35f30ba75eb2e788adccd062a25561e",
+    "energy_x1000": -49833,
+    "family_id": 48,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0xb78916cc4c8b3100000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var7",
+    "sha256_id": "eb3603bdda6b64f37dde708e608581b0",
+    "energy_x1000": -803,
+    "family_id": 48,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0xfe2c5cd889de6156000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var8",
+    "sha256_id": "3b673192f388b5c9484dfe3e9df06ed3",
+    "energy_x1000": -36274,
+    "family_id": 48,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x9bbbb40090eb333a000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_048_var9",
+    "sha256_id": "039a26526105239d89042c48273894b4",
+    "energy_x1000": -23059,
+    "family_id": 48,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x30a2cee8f9722cc1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_base",
+    "sha256_id": "a7b0729b9f6e546c8a8b9311ab475f74",
+    "energy_x1000": 3645,
+    "family_id": 49,
+    "variant_id": 0,
+    "true_hamming_to_base": 0
+  },
+  {
+    "csh_hash": "0x30a2ceeaf9722cc1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var1",
+    "sha256_id": "61f11f7c98e48a896ba1c71f6add9d91",
+    "energy_x1000": 36585,
+    "family_id": 49,
+    "variant_id": 1,
+    "true_hamming_to_base": 1
+  },
+  {
+    "csh_hash": "0x30a2ceb8f9722cc1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var2",
+    "sha256_id": "d625655815df16c1589f817a8ffcda73",
+    "energy_x1000": -18865,
+    "family_id": 49,
+    "variant_id": 2,
+    "true_hamming_to_base": 2
+  },
+  {
+    "csh_hash": "0x30a6cee8f9723c81000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var3",
+    "sha256_id": "dcbabc58167e703b1fb9c1599bb4648a",
+    "energy_x1000": 24943,
+    "family_id": 49,
+    "variant_id": 3,
+    "true_hamming_to_base": 3
+  },
+  {
+    "csh_hash": "0x70a28ee8f97a2c81000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var4",
+    "sha256_id": "83f0d68dc4a1635a736b81cbf9f911ed",
+    "energy_x1000": -49500,
+    "family_id": 49,
+    "variant_id": 4,
+    "true_hamming_to_base": 4
+  },
+  {
+    "csh_hash": "0x10e2cec8fb7224c1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var5",
+    "sha256_id": "9d656bbc15d178b7a7505d1c9281a4cb",
+    "energy_x1000": -37288,
+    "family_id": 49,
+    "variant_id": 5,
+    "true_hamming_to_base": 5
+  },
+  {
+    "csh_hash": "0x30e2cfe8b97608e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var6",
+    "sha256_id": "b2ea1dfea97521b87d41ea711f053b90",
+    "energy_x1000": -34861,
+    "family_id": 49,
+    "variant_id": 6,
+    "true_hamming_to_base": 8
+  },
+  {
+    "csh_hash": "0x32a6c86c3a732ce1000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var7",
+    "sha256_id": "734f31965daf222367eb9e6e94f7f67a",
+    "energy_x1000": -25768,
+    "family_id": 49,
+    "variant_id": 7,
+    "true_hamming_to_base": 12
+  },
+  {
+    "csh_hash": "0x75a25af8c8f166cd000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var8",
+    "sha256_id": "68103309bcab032fec37cbe54e77ea69",
+    "energy_x1000": -37325,
+    "family_id": 49,
+    "variant_id": 8,
+    "true_hamming_to_base": 18
+  },
+  {
+    "csh_hash": "0x3cab42d7be3ae8ed000000000000000000000000000000000000000000000000",
+    "molecule_name": "synthmol_049_var9",
+    "sha256_id": "b4131ab13c974e11f46236a03d276b4f",
+    "energy_x1000": 24870,
+    "family_id": 49,
+    "variant_id": 9,
+    "true_hamming_to_base": 25
+  },
+  {
+    "csh_hash": "0x844e250be684390c000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_000",
+    "sha256_id": "fe825da101e054507191c56732e2247a",
+    "energy_x1000": 24905,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xfb95d0fcad72ed05000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_001",
+    "sha256_id": "a5077f2ef58de18155a4a1fb3172bd46",
+    "energy_x1000": 31300,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x1ecacae925bf213d000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_002",
+    "sha256_id": "386e26ba020cfcf2fe13a17e8fc5fda6",
+    "energy_x1000": 49246,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x2c41cbd372f444ab000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_003",
+    "sha256_id": "1210715fcb258d0a770535b3db8eb73b",
+    "energy_x1000": -28090,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x363e6ef4f8dfcc3a000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_004",
+    "sha256_id": "0061bf9add8aa1a9e42013c79c47f644",
+    "energy_x1000": -24740,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x0aeccec7204db9da000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_005",
+    "sha256_id": "38e6a53191bf89d2a7e1e8e558812391",
+    "energy_x1000": 5492,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xfcffe9e3140ff589000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_006",
+    "sha256_id": "2873723747b5cfdd1c3f64d90bde504b",
+    "energy_x1000": 39538,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x33b0fb536f75ee8a000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_007",
+    "sha256_id": "f070b5765d05f92454e2e9837cfc7b15",
+    "energy_x1000": 32211,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xd5881c1c25db5946000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_008",
+    "sha256_id": "75cffd0ef8fd6c161abe3ec95bce651b",
+    "energy_x1000": 27994,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x51db1a374204d733000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_009",
+    "sha256_id": "efd93770165644c86bcdba5fa31f3fc8",
+    "energy_x1000": 45302,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xceae1325ea074d80000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_010",
+    "sha256_id": "69ac9a23be64a24435035d565ef19ce4",
+    "energy_x1000": -41217,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x635a775d16476e3f000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_011",
+    "sha256_id": "6bf13bb2e220ff961bff87e462b386f2",
+    "energy_x1000": 22923,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x8d536c7565b90e94000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_012",
+    "sha256_id": "75dedf7f824ef89e9a957c4afcc63e4d",
+    "energy_x1000": -7254,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x46b518dedb4bb8eb000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_013",
+    "sha256_id": "ab16bbe17ea4a0266f559632c8d43b35",
+    "energy_x1000": 18116,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xeacb1f6d7549c9f9000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_014",
+    "sha256_id": "417a62cce60cb25dc689a1be9d9a4726",
+    "energy_x1000": -48380,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xb34e356ac95b61f8000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_015",
+    "sha256_id": "8898be4bf6ee3a27df1f261b984d248e",
+    "energy_x1000": 31665,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x85c69fbf966b62ea000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_016",
+    "sha256_id": "5506fc0e66e70fdd96965f00686083c1",
+    "energy_x1000": 4997,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x6a18e5af1cce08e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_017",
+    "sha256_id": "cbef550321f252ce84842ecbb2558cd4",
+    "energy_x1000": -30387,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x910c4cb725f06b0a000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_018",
+    "sha256_id": "de893a061591a8aa68347dd56baa5e14",
+    "energy_x1000": 27061,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xc2250530952a5345000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_019",
+    "sha256_id": "db17df05eb2f403bfbc66f72ab1d5995",
+    "energy_x1000": -36867,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x1b0ae22eecc817a6000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_020",
+    "sha256_id": "d19fa305aade8eba9fca9948ac8bf944",
+    "energy_x1000": 23752,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x19da8262c7903dc5000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_021",
+    "sha256_id": "a8504076154e543f753015c4ffd3c58f",
+    "energy_x1000": -12502,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x891f4683de12dbf1000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_022",
+    "sha256_id": "94be8a26ca79d0d217fafc59c90a3bf0",
+    "energy_x1000": -4929,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x693016eae0bda1ee000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_023",
+    "sha256_id": "b8d7b122d673474dbb3539d72323860a",
+    "energy_x1000": -15380,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa7a02a3d620f230b000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_024",
+    "sha256_id": "23c681164e1846147d9828dcd8e29d19",
+    "energy_x1000": 13646,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x9be4f19f92701d60000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_025",
+    "sha256_id": "c25e4833486fcdb663a03f7b36c3e9a9",
+    "energy_x1000": 12003,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x2c154804099759a3000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_026",
+    "sha256_id": "6c3c10a9dbc69de82208543af5d73306",
+    "energy_x1000": -13901,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x24d3875167294d3c000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_027",
+    "sha256_id": "52045d91eccd4e012c76e53680e75198",
+    "energy_x1000": 31034,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xae49c0799bd0d4c7000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_028",
+    "sha256_id": "8aecb38e8769ca4bd35450026dd6e2dd",
+    "energy_x1000": 40919,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x09eda6f566d71d97000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_029",
+    "sha256_id": "d79db1d554fe29f65c04e9b9449aed45",
+    "energy_x1000": 1877,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xe1035e1ce3bb22ae000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_030",
+    "sha256_id": "2f58db6597d62db3f4b61fae2640efcb",
+    "energy_x1000": -6551,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x3cd1ff3fb0c58278000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_031",
+    "sha256_id": "ea8999e6eb7ccb0b461c9b81c4c6a570",
+    "energy_x1000": -43540,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x79a7e63bbee975da000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_032",
+    "sha256_id": "1b55444c4d3c628e3b5b69ef47ab2113",
+    "energy_x1000": -14797,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x5f584603e5a3d8e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_033",
+    "sha256_id": "52b2885fe214cecdc42fa19195fd6d4a",
+    "energy_x1000": -47349,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xd1403430567e642e000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_034",
+    "sha256_id": "8fb8d564661469fe97e9a576beaa4d0c",
+    "energy_x1000": -10278,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x47c4cc514f9a5f98000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_035",
+    "sha256_id": "95f771f6c63dca386665408718616dbd",
+    "energy_x1000": 14437,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xb23909f4dbb54645000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_036",
+    "sha256_id": "b3af1952fb85ae2e04c2fd40932dcb38",
+    "energy_x1000": 39764,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xf8f58a261924c644000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_037",
+    "sha256_id": "267972be04e747820e7224dd5727c131",
+    "energy_x1000": -20122,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x4cec495b226716e3000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_038",
+    "sha256_id": "d049e6a9013ae79931da3b678de9b4a3",
+    "energy_x1000": 47481,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xc626e38f716fb276000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_039",
+    "sha256_id": "086a09491b24951fd6adfd29fa3a1502",
+    "energy_x1000": -7944,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xba92992e44f8b53c000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_040",
+    "sha256_id": "e2ca119c0c7b590186edf8268516eb92",
+    "energy_x1000": 4627,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa543148e9adfe981000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_041",
+    "sha256_id": "866fae26143841584e0d5f072c0d7d88",
+    "energy_x1000": -38297,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x711456de301c8db3000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_042",
+    "sha256_id": "f8cffe99c20d061882b3b0aba21eaaa1",
+    "energy_x1000": -22293,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xd2efa93be9d6bb7e000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_043",
+    "sha256_id": "43c72695188ca42181eb8efcc40c3ab2",
+    "energy_x1000": 3368,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x7c059799bdae8eff000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_044",
+    "sha256_id": "ad452f7698c44cf3e6c17dc147dd4c6c",
+    "energy_x1000": 49548,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xde0018aa84396fc0000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_045",
+    "sha256_id": "d6dc164d12c0bd7b7f3df8c15b685e24",
+    "energy_x1000": -991,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x0e63813ed22e3226000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_046",
+    "sha256_id": "82f2fce461539e16968ee68a0d81aa01",
+    "energy_x1000": 17537,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x28b26b1bca9f1d59000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_047",
+    "sha256_id": "1e077f5a9d6a85e155a6268c53f27516",
+    "energy_x1000": -41400,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xb5a6571c4fa5c35e000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_048",
+    "sha256_id": "db076795d3d11e7ff43800a377e9aac5",
+    "energy_x1000": 16426,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x22b9f24c67443fb8000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_049",
+    "sha256_id": "0266a77d2e9d4ea0280006b863062bbb",
+    "energy_x1000": 18719,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x9194821ee11bf0d4000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_050",
+    "sha256_id": "e97bd00944c04ccad73b210d7989c206",
+    "energy_x1000": -46206,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x3158f1fb2c7a0d31000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_051",
+    "sha256_id": "88beecdeafd52a757788ec1275b8ff88",
+    "energy_x1000": -23691,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x0ec0ad4bd6441a9d000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_052",
+    "sha256_id": "e4f81fbab3e57f19723bc0b72e48c020",
+    "energy_x1000": -17299,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x74d9d1f508775804000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_053",
+    "sha256_id": "f854d68046cfc0435628db7d7b84ff38",
+    "energy_x1000": -43374,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x5c418a83eb04159c000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_054",
+    "sha256_id": "ac5d47fa189faab9f98f898c4cf1a1de",
+    "energy_x1000": 42357,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x462363a932f8dbab000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_055",
+    "sha256_id": "cce760c65d51969a8b33c73b5b560fe9",
+    "energy_x1000": -1720,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x76d70561d2d14ef5000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_056",
+    "sha256_id": "78095caf4959edde6adf19046d915f81",
+    "energy_x1000": 16207,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa2aa378c659e0258000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_057",
+    "sha256_id": "a792ffb64d09786cc9396ed04cc85797",
+    "energy_x1000": -33764,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x07d2fd4dae61716a000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_058",
+    "sha256_id": "741afc908d34e92b0284eb53c663fdee",
+    "energy_x1000": -18289,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x7d2120ad5f59fb4d000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_059",
+    "sha256_id": "5e77d97134d91a41ff1431969767ec00",
+    "energy_x1000": 27862,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x2d761ffa7233d5af000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_060",
+    "sha256_id": "a2e5b1b0028707fcbabe25c259d95b6c",
+    "energy_x1000": 12204,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x8d2434f9963dc8bf000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_061",
+    "sha256_id": "80d99d8597867a745a8922dd89f73d5a",
+    "energy_x1000": -4157,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x29dc073e5820b3f2000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_062",
+    "sha256_id": "b4b456e4e29fce436dce2dd3bad2829a",
+    "energy_x1000": -16097,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xd4b3e8cfbfbbeab3000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_063",
+    "sha256_id": "ea8331b8a405067270798269abbbaefe",
+    "energy_x1000": 40289,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x48fa4e981723ecdb000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_064",
+    "sha256_id": "d5bdaafaad5d884bfd7ad52ea13576e9",
+    "energy_x1000": -46403,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x0cb5ee5c62f5f7c2000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_065",
+    "sha256_id": "683265bdb3a9c0bd13923244ebb4a7a5",
+    "energy_x1000": -28648,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x927f8103da9408c0000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_066",
+    "sha256_id": "ecf2f09e3191fa33d4c6ea13ef6622d6",
+    "energy_x1000": -21909,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x38aa76dfdb6ba39b000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_067",
+    "sha256_id": "9cff7583562acf094b2c8020bf7519e0",
+    "energy_x1000": 34853,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xad7d6f8139a0f145000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_068",
+    "sha256_id": "757e22778ecf8e56ddc2ec1fa2155152",
+    "energy_x1000": -22904,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa6ce6d7a44e2a94b000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_069",
+    "sha256_id": "2e2bee4ad5b40567ccdc48d8bdb2f1d0",
+    "energy_x1000": 3674,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x052226b983666636000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_070",
+    "sha256_id": "b775619e19abff1c22b9fdc96bc92579",
+    "energy_x1000": 39417,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x795e6f2b02472360000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_071",
+    "sha256_id": "4c5487f682da4e71fdac0a7bfe09e863",
+    "energy_x1000": -32658,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x2c56e0cda5ba2472000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_072",
+    "sha256_id": "edc14d4416dcfdb3f0f5841049e1e2cb",
+    "energy_x1000": 28792,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x022aaddacd0579e2000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_073",
+    "sha256_id": "a737ab377264f658e8996106ca68cc2a",
+    "energy_x1000": -20671,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x9bbc6cbc409ca8f2000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_074",
+    "sha256_id": "d892355dd6f6522077335f1b038cfbee",
+    "energy_x1000": -9963,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xf78ee9e8b676291d000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_075",
+    "sha256_id": "39a4f59fad7cf2a2b71f58d06c4eae43",
+    "energy_x1000": 42978,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x467f358ba48aa108000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_076",
+    "sha256_id": "1a8730564fcc434a5441c6b5540a0f63",
+    "energy_x1000": 5549,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x6060b1ebe53e5f4c000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_077",
+    "sha256_id": "f01f220512d376b23ec9ed7480cd58e0",
+    "energy_x1000": -4294,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x4082fcda7580e4e9000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_078",
+    "sha256_id": "24aa9f2aac34a0491cf50a748755217c",
+    "energy_x1000": -21399,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x4d59616b7779857f000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_079",
+    "sha256_id": "71bb3bc032087b15a1385334ea71ed72",
+    "energy_x1000": 38761,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xd30608be8548867b000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_080",
+    "sha256_id": "b75742adb038ba112489406fe9fc7d7f",
+    "energy_x1000": 31737,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x95a0f35665abc9ff000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_081",
+    "sha256_id": "07aabff05750320fb4e73ee33987888f",
+    "energy_x1000": -36590,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x82f2900401e187d8000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_082",
+    "sha256_id": "8af9274fa91f31710765077262436445",
+    "energy_x1000": 36816,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xd7e174e6f76b9723000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_083",
+    "sha256_id": "cb137adca20d4fb91a6db392b8c12c31",
+    "energy_x1000": -949,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa5b836938fbba749000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_084",
+    "sha256_id": "f7eae85428d55ad132ab356338ba443f",
+    "energy_x1000": 27826,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x485d831c9beab529000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_085",
+    "sha256_id": "3c4112ed50a72e8350dadb7818499011",
+    "energy_x1000": -10879,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x1bacbd0daf35b30b000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_086",
+    "sha256_id": "a6fb84450a826bfabcaf7f588b22205d",
+    "energy_x1000": 13142,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x5616af7e1057a002000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_087",
+    "sha256_id": "b0c8def92a7bf3212a3807632ef74f61",
+    "energy_x1000": -13761,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x533c2ed5a3fe0479000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_088",
+    "sha256_id": "be3afcf77c06e88d34d395bf65fd1623",
+    "energy_x1000": -13709,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa7f7745142da8609000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_089",
+    "sha256_id": "2647a81eead30f0f64596a9bb9449cc5",
+    "energy_x1000": 43204,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xe4729be5f3c2944a000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_090",
+    "sha256_id": "aba11e61d04a1b6446c05f1a4ca33c1f",
+    "energy_x1000": 35389,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x30385dd74c7d9313000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_091",
+    "sha256_id": "7cb2dc1757f8110168f4c5764cf4817b",
+    "energy_x1000": -30349,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xc3f62136846d5a3b000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_092",
+    "sha256_id": "4322482ff5258bbdabb51e2f76c9bdaa",
+    "energy_x1000": -18504,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x0e88c8ece651e3e1000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_093",
+    "sha256_id": "0b61bbef800eeeaa60b1d6edade6df42",
+    "energy_x1000": 28647,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa91883fc6772fe9f000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_094",
+    "sha256_id": "df48ba7bca03d722970e0400d263e4ec",
+    "energy_x1000": -8112,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x23d26b8dae46024d000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_095",
+    "sha256_id": "6ecfb38185400b8f63cb5c587f247558",
+    "energy_x1000": 44540,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xa7c854e406843c86000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_096",
+    "sha256_id": "1f419ce7489368bd5bb48d21a33b63c7",
+    "energy_x1000": 15191,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x4bacbedfff5a229e000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_097",
+    "sha256_id": "3468380cff75e4d3c24d467f171a8aad",
+    "energy_x1000": -15997,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0x6b271effe82b5b36000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_098",
+    "sha256_id": "e507f641224e379e68faad9cc8a9bd9b",
+    "energy_x1000": 3031,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  },
+  {
+    "csh_hash": "0xbc9a79986365fc2a000000000000000000000000000000000000000000000000",
+    "molecule_name": "noise_099",
+    "sha256_id": "6f6b1054d08c3469938ae5b90336d614",
+    "energy_x1000": -45371,
+    "family_id": -1,
+    "variant_id": -1,
+    "true_hamming_to_base": -1
+  }
+]

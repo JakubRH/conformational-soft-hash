@@ -30,3 +30,7 @@ VeryImportantBlockchain.txt
 indexer/csh_indexer.db
 indexer/*.db
 indexer/__pycache__/
+
+# Benchmark intermediate state
+indexer/benchmark/batch_progress.json
+indexer/benchmark/__pycache__/
