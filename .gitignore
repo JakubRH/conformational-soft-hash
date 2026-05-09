@@ -25,3 +25,8 @@ collision_vs_rmsd_final.png
 *.env
 .ipynb_checkpoints/
 VeryImportantBlockchain.txt
+
+# CSH indexer database
+indexer/csh_indexer.db
+indexer/*.db
+indexer/__pycache__/
