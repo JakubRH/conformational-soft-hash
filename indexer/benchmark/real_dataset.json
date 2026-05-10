@@ -1,0 +1,902 @@
+[
+  {
+    "csh_hash": "0x8b9a1358995e308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf00",
+    "sha256_id": "f4fca1787c5532b9c8eae67fa966591e",
+    "energy_x1000": 104781,
+    "family_id": 0,
+    "variant_id": 0,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8b9a1358995e308b"
+  },
+  {
+    "csh_hash": "0x1fc8116fa81772aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf01",
+    "sha256_id": "06e5e3d064158f9bbcda693b16ec7121",
+    "energy_x1000": 106539,
+    "family_id": 0,
+    "variant_id": 1,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1fc8116fa81772aa"
+  },
+  {
+    "csh_hash": "0x8cd613515958328f000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf02",
+    "sha256_id": "84c196e4bbe5a404c2712db95bc5dbf0",
+    "energy_x1000": 103078,
+    "family_id": 0,
+    "variant_id": 2,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8cd613515958328f"
+  },
+  {
+    "csh_hash": "0x1fc811efa81772aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf03",
+    "sha256_id": "6e8fa88eb0be0b00f5145af5f4400cd6",
+    "energy_x1000": 106613,
+    "family_id": 0,
+    "variant_id": 3,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1fc811efa81772aa"
+  },
+  {
+    "csh_hash": "0xb840128424197eaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf04",
+    "sha256_id": "e628b8d968b37d30db425752d624b24a",
+    "energy_x1000": 109043,
+    "family_id": 0,
+    "variant_id": 4,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "b840128424197eaa"
+  },
+  {
+    "csh_hash": "0x9b9a135a8916308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf05",
+    "sha256_id": "0a4158ba3b1c8e9815a24753c49c96cc",
+    "energy_x1000": 105072,
+    "family_id": 0,
+    "variant_id": 5,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "9b9a135a8916308b"
+  },
+  {
+    "csh_hash": "0x1bca137aa91730aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf06",
+    "sha256_id": "55033fa9c3ed9417ab284eb37595fe7d",
+    "energy_x1000": 105789,
+    "family_id": 0,
+    "variant_id": 6,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca137aa91730aa"
+  },
+  {
+    "csh_hash": "0x1f8811efa81372aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf07",
+    "sha256_id": "18371555ed454577b053f6b3b9c0da8d",
+    "energy_x1000": 106740,
+    "family_id": 0,
+    "variant_id": 7,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1f8811efa81372aa"
+  },
+  {
+    "csh_hash": "0x8ed61351597c308f000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf08",
+    "sha256_id": "36294d2a4ea471f9991854152f227922",
+    "energy_x1000": 103499,
+    "family_id": 0,
+    "variant_id": 8,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8ed61351597c308f"
+  },
+  {
+    "csh_hash": "0x8cf613515978328f000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf09",
+    "sha256_id": "bf4af0550842da76f8931a980bd3c47c",
+    "energy_x1000": 103067,
+    "family_id": 0,
+    "variant_id": 9,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8cf613515978328f"
+  },
+  {
+    "csh_hash": "0x8b9a1358995e308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf10",
+    "sha256_id": "b5b44b14337d746a270ef67d788fdf01",
+    "energy_x1000": 104605,
+    "family_id": 0,
+    "variant_id": 10,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8b9a1358995e308b"
+  },
+  {
+    "csh_hash": "0x1bca137aa91730aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf11",
+    "sha256_id": "461f6ff619f517a417ea9d404b4879f5",
+    "energy_x1000": 105856,
+    "family_id": 0,
+    "variant_id": 11,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca137aa91730aa"
+  },
+  {
+    "csh_hash": "0x9b9a135a991e308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf12",
+    "sha256_id": "ecb92170b50b016ab0934d149229799a",
+    "energy_x1000": 104872,
+    "family_id": 0,
+    "variant_id": 12,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "9b9a135a991e308b"
+  },
+  {
+    "csh_hash": "0x1bc8116fa91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf13",
+    "sha256_id": "d691478291c1627584c000b6c74d3ade",
+    "energy_x1000": 106439,
+    "family_id": 0,
+    "variant_id": 13,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bc8116fa91770aa"
+  },
+  {
+    "csh_hash": "0x1bca116fa91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf14",
+    "sha256_id": "1e16d7c5e79aa9b446399eef95f0fa05",
+    "energy_x1000": 106285,
+    "family_id": 0,
+    "variant_id": 14,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca116fa91770aa"
+  },
+  {
+    "csh_hash": "0x1bc8116fa91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf15",
+    "sha256_id": "8972ded2e1fbb4744782ca2c8911ff48",
+    "energy_x1000": 106386,
+    "family_id": 0,
+    "variant_id": 15,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bc8116fa91770aa"
+  },
+  {
+    "csh_hash": "0x1bca137ea91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf16",
+    "sha256_id": "243846a17e64ebdb47cefb96e651ff89",
+    "energy_x1000": 105893,
+    "family_id": 0,
+    "variant_id": 16,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca137ea91770aa"
+  },
+  {
+    "csh_hash": "0x1bc8116fa91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf17",
+    "sha256_id": "4a9dee1dcb2834695b133984ae981872",
+    "energy_x1000": 106411,
+    "family_id": 0,
+    "variant_id": 17,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bc8116fa91770aa"
+  },
+  {
+    "csh_hash": "0x8b9a1358995e308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf18",
+    "sha256_id": "f07cf0cd3b3ea0745e4b03c98ef33040",
+    "energy_x1000": 104705,
+    "family_id": 0,
+    "variant_id": 18,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8b9a1358995e308b"
+  },
+  {
+    "csh_hash": "0x3c881085bc197aaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf19",
+    "sha256_id": "4ec69c4b27fce199b53b266eaa887319",
+    "energy_x1000": 107877,
+    "family_id": 0,
+    "variant_id": 19,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "3c881085bc197aaa"
+  },
+  {
+    "csh_hash": "0x8b9a1358995e308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf20",
+    "sha256_id": "d9e6753dd492e0d6ff04653b147c4cc2",
+    "energy_x1000": 104712,
+    "family_id": 0,
+    "variant_id": 20,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8b9a1358995e308b"
+  },
+  {
+    "csh_hash": "0x1bca137aa91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf21",
+    "sha256_id": "5500d1e32b6c0ac9c6ca39a515153937",
+    "energy_x1000": 105876,
+    "family_id": 0,
+    "variant_id": 21,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca137aa91770aa"
+  },
+  {
+    "csh_hash": "0x1bca137aa91730aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf22",
+    "sha256_id": "946cca1741c964574918cec235751e6b",
+    "energy_x1000": 105653,
+    "family_id": 0,
+    "variant_id": 22,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca137aa91730aa"
+  },
+  {
+    "csh_hash": "0x8b9e1350995e308b000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf23",
+    "sha256_id": "59e96b95dfd7124dafd280a5d1474136",
+    "energy_x1000": 104255,
+    "family_id": 0,
+    "variant_id": 23,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8b9e1350995e308b"
+  },
+  {
+    "csh_hash": "0x3c881085bc197aaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf24",
+    "sha256_id": "dd1b1387bac9e42db0852e517f933999",
+    "energy_x1000": 107927,
+    "family_id": 0,
+    "variant_id": 24,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "3c881085bc197aaa"
+  },
+  {
+    "csh_hash": "0x9b9a137aa91630ab000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf25",
+    "sha256_id": "ce4503bdacfed3db70aa35c28c373587",
+    "energy_x1000": 105273,
+    "family_id": 0,
+    "variant_id": 25,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "9b9a137aa91630ab"
+  },
+  {
+    "csh_hash": "0x1bca116fa91770aa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf26",
+    "sha256_id": "953edc85a832dbed019ed6359a8549d1",
+    "energy_x1000": 106350,
+    "family_id": 0,
+    "variant_id": 26,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "1bca116fa91770aa"
+  },
+  {
+    "csh_hash": "0x3e8811afbc137aaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf27",
+    "sha256_id": "c0c65452f08d5467d3277e5db83c25c6",
+    "energy_x1000": 107060,
+    "family_id": 0,
+    "variant_id": 27,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "3e8811afbc137aaa"
+  },
+  {
+    "csh_hash": "0x8cd613515958328f000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf28",
+    "sha256_id": "603b4003a4f70911bcf716dc0e2f9471",
+    "energy_x1000": 103173,
+    "family_id": 0,
+    "variant_id": 28,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "8cd613515958328f"
+  },
+  {
+    "csh_hash": "0x3840108424197aaa000000000000000000000000000000000000000000000000",
+    "molecule_name": "tamoxifen_conf29",
+    "sha256_id": "79158ec33e42c74379209db0d1835c5e",
+    "energy_x1000": 108794,
+    "family_id": 0,
+    "variant_id": 29,
+    "molecule": "tamoxifen",
+    "csh_hash_raw_64bit": "3840108424197aaa"
+  },
+  {
+    "csh_hash": "0x8b9d8fedf3dc6e69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf00",
+    "sha256_id": "d3cbb099752ef4227f07a903565b76a7",
+    "energy_x1000": 78114,
+    "family_id": 1,
+    "variant_id": 0,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8b9d8fedf3dc6e69"
+  },
+  {
+    "csh_hash": "0xb90185bb4b4bac0c000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf01",
+    "sha256_id": "04c7233cf387c8bfd9df1d668c59256c",
+    "energy_x1000": 73491,
+    "family_id": 1,
+    "variant_id": 1,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "b90185bb4b4bac0c"
+  },
+  {
+    "csh_hash": "0x2c9b8dd4cbc0ac29000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf02",
+    "sha256_id": "234e761da4d72d2686c240c19658eea7",
+    "energy_x1000": 75921,
+    "family_id": 1,
+    "variant_id": 2,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "2c9b8dd4cbc0ac29"
+  },
+  {
+    "csh_hash": "0x29df8fc5cbd4ee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf03",
+    "sha256_id": "79c06c057846324eb8d81e3a2a2e4d61",
+    "energy_x1000": 76857,
+    "family_id": 1,
+    "variant_id": 3,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "29df8fc5cbd4ee69"
+  },
+  {
+    "csh_hash": "0x8bbd8feff39c6669000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf04",
+    "sha256_id": "d97ca8562a9445853114b71088704217",
+    "energy_x1000": 78826,
+    "family_id": 1,
+    "variant_id": 4,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8bbd8feff39c6669"
+  },
+  {
+    "csh_hash": "0x8ff58deef79e646d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf05",
+    "sha256_id": "8f08deb0456caf6bebc63a756704876b",
+    "energy_x1000": 79294,
+    "family_id": 1,
+    "variant_id": 5,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8ff58deef79e646d"
+  },
+  {
+    "csh_hash": "0x8bbd8feff39e6669000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf06",
+    "sha256_id": "173caa0d9245b32a4bc65b136fb822a8",
+    "energy_x1000": 78914,
+    "family_id": 1,
+    "variant_id": 6,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8bbd8feff39e6669"
+  },
+  {
+    "csh_hash": "0x8ff58deef79e666d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf07",
+    "sha256_id": "8bc367107fa22c431b59c4ec30553728",
+    "energy_x1000": 79139,
+    "family_id": 1,
+    "variant_id": 7,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8ff58deef79e666d"
+  },
+  {
+    "csh_hash": "0x1e21c210f745e30d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf08",
+    "sha256_id": "0f5aa9a6ad2af0c2bb8177ba1b592aff",
+    "energy_x1000": 70687,
+    "family_id": 1,
+    "variant_id": 8,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "1e21c210f745e30d"
+  },
+  {
+    "csh_hash": "0x1a6fc026e749610d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf09",
+    "sha256_id": "46772a742111df9adc74241a838c30cb",
+    "energy_x1000": 69636,
+    "family_id": 1,
+    "variant_id": 9,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "1a6fc026e749610d"
+  },
+  {
+    "csh_hash": "0x8ff58deef79e646d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf10",
+    "sha256_id": "a08fec0d8f9f3560052fb8ec8019a18e",
+    "energy_x1000": 79237,
+    "family_id": 1,
+    "variant_id": 10,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8ff58deef79e646d"
+  },
+  {
+    "csh_hash": "0x8ef58d42e79e646d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf11",
+    "sha256_id": "0269609a3e4a61c5a015800136317d0c",
+    "energy_x1000": 79897,
+    "family_id": 1,
+    "variant_id": 11,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8ef58d42e79e646d"
+  },
+  {
+    "csh_hash": "0x9b0187396b4fa60c000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf12",
+    "sha256_id": "5a386bf42a8ddf62711237d9aeb1fd1c",
+    "energy_x1000": 72807,
+    "family_id": 1,
+    "variant_id": 12,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "9b0187396b4fa60c"
+  },
+  {
+    "csh_hash": "0x2c9b8fc4cbc0ac29000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf13",
+    "sha256_id": "ce90d340bdc400c763540095be4b480d",
+    "energy_x1000": 76048,
+    "family_id": 1,
+    "variant_id": 13,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "2c9b8fc4cbc0ac29"
+  },
+  {
+    "csh_hash": "0x2c9f8fc4cbc0ac29000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf14",
+    "sha256_id": "7e479e5dddfcf6599e49475cab456517",
+    "energy_x1000": 76081,
+    "family_id": 1,
+    "variant_id": 14,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "2c9f8fc4cbc0ac29"
+  },
+  {
+    "csh_hash": "0x8bbd8feff39e6669000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf15",
+    "sha256_id": "3122772aa9b3c643f61f12c9f7016669",
+    "energy_x1000": 78982,
+    "family_id": 1,
+    "variant_id": 15,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8bbd8feff39e6669"
+  },
+  {
+    "csh_hash": "0x29df8fedcbd4ee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf16",
+    "sha256_id": "b89e3c20e6d85ff6ea9d59a20ae0318f",
+    "energy_x1000": 77191,
+    "family_id": 1,
+    "variant_id": 16,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "29df8fedcbd4ee69"
+  },
+  {
+    "csh_hash": "0x2c9f8fc4cbc0ae69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf17",
+    "sha256_id": "b6bedc46b2e3d74708f8dffd71f67ff8",
+    "energy_x1000": 76351,
+    "family_id": 1,
+    "variant_id": 17,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "2c9f8fc4cbc0ae69"
+  },
+  {
+    "csh_hash": "0x8b9d8fedf3dcee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf18",
+    "sha256_id": "9f95cdf455c93f6bd89078422e25ddaa",
+    "energy_x1000": 77987,
+    "family_id": 1,
+    "variant_id": 18,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8b9d8fedf3dcee69"
+  },
+  {
+    "csh_hash": "0x09628c313792246c000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf19",
+    "sha256_id": "818313cc5813d247fa542227cdabb277",
+    "energy_x1000": 82146,
+    "family_id": 1,
+    "variant_id": 19,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "09628c313792246c"
+  },
+  {
+    "csh_hash": "0x1a6fc206e745e10d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf20",
+    "sha256_id": "db9216d034e0f25b33f1ecd48b6b5d9a",
+    "energy_x1000": 69883,
+    "family_id": 1,
+    "variant_id": 20,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "1a6fc206e745e10d"
+  },
+  {
+    "csh_hash": "0x8ff58deef79e646d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf21",
+    "sha256_id": "165f2fdf508b6787726e52208f3f895d",
+    "energy_x1000": 79362,
+    "family_id": 1,
+    "variant_id": 21,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8ff58deef79e646d"
+  },
+  {
+    "csh_hash": "0x8b9d8feff3dc6e69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf22",
+    "sha256_id": "797afdf6cfb01f0a93d83d048787d068",
+    "energy_x1000": 78344,
+    "family_id": 1,
+    "variant_id": 22,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8b9d8feff3dc6e69"
+  },
+  {
+    "csh_hash": "0x2bdd8fedd3d4ee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf23",
+    "sha256_id": "654aa5acf4ef9c5bd287774715f74db0",
+    "energy_x1000": 77766,
+    "family_id": 1,
+    "variant_id": 23,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "2bdd8fedd3d4ee69"
+  },
+  {
+    "csh_hash": "0x8ff58deef79e646d000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf24",
+    "sha256_id": "090588ee81c933125ff0de9ad819ea7c",
+    "energy_x1000": 79216,
+    "family_id": 1,
+    "variant_id": 24,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8ff58deef79e646d"
+  },
+  {
+    "csh_hash": "0x8bbd8feff39e6669000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf25",
+    "sha256_id": "a329a0955d41ed0bafb87e71db3e3b6b",
+    "energy_x1000": 78950,
+    "family_id": 1,
+    "variant_id": 25,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "8bbd8feff39e6669"
+  },
+  {
+    "csh_hash": "0x29df8fc5cbd4ee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf26",
+    "sha256_id": "d0300bf796f0b08974afc39016e6a390",
+    "energy_x1000": 76962,
+    "family_id": 1,
+    "variant_id": 26,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "29df8fc5cbd4ee69"
+  },
+  {
+    "csh_hash": "0x29df8fc5cbd4ee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf27",
+    "sha256_id": "d15ff65b9e6dd4fac017dc2c23c15849",
+    "energy_x1000": 76833,
+    "family_id": 1,
+    "variant_id": 27,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "29df8fc5cbd4ee69"
+  },
+  {
+    "csh_hash": "0x29df8fc5cbd4ee69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf28",
+    "sha256_id": "475ca0c9de3648b00a7a24d7e59e871f",
+    "energy_x1000": 76843,
+    "family_id": 1,
+    "variant_id": 28,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "29df8fc5cbd4ee69"
+  },
+  {
+    "csh_hash": "0x2c9f8fc4cbc0ae69000000000000000000000000000000000000000000000000",
+    "molecule_name": "imatinib_conf29",
+    "sha256_id": "b1220fb8a1211d459cfdd1b839d93638",
+    "energy_x1000": 76321,
+    "family_id": 1,
+    "variant_id": 29,
+    "molecule": "imatinib",
+    "csh_hash_raw_64bit": "2c9f8fc4cbc0ae69"
+  },
+  {
+    "csh_hash": "0x6ddfc38d820da090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf00",
+    "sha256_id": "88d4adc04807080afcf87b357396b1df",
+    "energy_x1000": 40741,
+    "family_id": 2,
+    "variant_id": 0,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6ddfc38d820da090"
+  },
+  {
+    "csh_hash": "0x4f8fc1ee128ce290000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf01",
+    "sha256_id": "2452f80fc5f2d67c4b0cc3a484f8bf4d",
+    "energy_x1000": 42016,
+    "family_id": 2,
+    "variant_id": 1,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "4f8fc1ee128ce290"
+  },
+  {
+    "csh_hash": "0xf853c183b203aa95000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf02",
+    "sha256_id": "ea64a8d5782a5331f1f901ed9b2c8560",
+    "energy_x1000": 38492,
+    "family_id": 2,
+    "variant_id": 2,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "f853c183b203aa95"
+  },
+  {
+    "csh_hash": "0x69dfc38d820da090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf03",
+    "sha256_id": "4a8016f8f2c0cd05144dc2e522ef1cc1",
+    "energy_x1000": 40498,
+    "family_id": 2,
+    "variant_id": 3,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "69dfc38d820da090"
+  },
+  {
+    "csh_hash": "0xcacdc15722d266d1000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf04",
+    "sha256_id": "d7c9390e976cb9ef9751bfadc5fe742a",
+    "energy_x1000": 43831,
+    "family_id": 2,
+    "variant_id": 4,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "cacdc15722d266d1"
+  },
+  {
+    "csh_hash": "0x4f8fc1ee128ce290000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf05",
+    "sha256_id": "3abf065bafc49b700bc1ae536f289946",
+    "energy_x1000": 42033,
+    "family_id": 2,
+    "variant_id": 5,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "4f8fc1ee128ce290"
+  },
+  {
+    "csh_hash": "0xdfddc0a45fc377e0000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf06",
+    "sha256_id": "db5f90c1fc2a2cafa94e309c5ab6c67c",
+    "energy_x1000": 50959,
+    "family_id": 2,
+    "variant_id": 6,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "dfddc0a45fc377e0"
+  },
+  {
+    "csh_hash": "0xcaadc15722d266d1000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf07",
+    "sha256_id": "644719e22969335a6f5483ae23333163",
+    "energy_x1000": 44344,
+    "family_id": 2,
+    "variant_id": 7,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "caadc15722d266d1"
+  },
+  {
+    "csh_hash": "0xcf8dc1fe1288e690000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf08",
+    "sha256_id": "2f1b72e2a104d83cacfe90f52bec8ef4",
+    "energy_x1000": 42706,
+    "family_id": 2,
+    "variant_id": 8,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "cf8dc1fe1288e690"
+  },
+  {
+    "csh_hash": "0x6897c3818207a090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf09",
+    "sha256_id": "18f4bca5051cc822168d0d21a60bfa02",
+    "energy_x1000": 39817,
+    "family_id": 2,
+    "variant_id": 9,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6897c3818207a090"
+  },
+  {
+    "csh_hash": "0xd39dc2ac43cbf5e1000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf10",
+    "sha256_id": "b27391f6c573f636fe7239665b736462",
+    "energy_x1000": 52217,
+    "family_id": 2,
+    "variant_id": 10,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "d39dc2ac43cbf5e1"
+  },
+  {
+    "csh_hash": "0xcf8fc1fe1288e290000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf11",
+    "sha256_id": "fd8f778574aad2d822c1a8be4010bd0b",
+    "energy_x1000": 42211,
+    "family_id": 2,
+    "variant_id": 11,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "cf8fc1fe1288e290"
+  },
+  {
+    "csh_hash": "0xcacdc1f612d8e6d1000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf12",
+    "sha256_id": "1f95d63cf07e3cb3ed29f629884ebe6c",
+    "energy_x1000": 43054,
+    "family_id": 2,
+    "variant_id": 12,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "cacdc1f612d8e6d1"
+  },
+  {
+    "csh_hash": "0x6973c22baedc2ff4000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf13",
+    "sha256_id": "9e540efadf937342b4c914b807f8a768",
+    "energy_x1000": 48082,
+    "family_id": 2,
+    "variant_id": 13,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6973c22baedc2ff4"
+  },
+  {
+    "csh_hash": "0x6997c38d8205a090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf14",
+    "sha256_id": "7f82b5ec68bdd947190d764ff9947271",
+    "energy_x1000": 40218,
+    "family_id": 2,
+    "variant_id": 14,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6997c38d8205a090"
+  },
+  {
+    "csh_hash": "0x6d63c278bede2df5000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf15",
+    "sha256_id": "ae4a5a2407a9b323264fa94f5c08a572",
+    "energy_x1000": 46268,
+    "family_id": 2,
+    "variant_id": 15,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6d63c278bede2df5"
+  },
+  {
+    "csh_hash": "0xcaadc15522d26ed5000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf16",
+    "sha256_id": "2e928d5eb94aaabcc2beca528f189bb8",
+    "energy_x1000": 44502,
+    "family_id": 2,
+    "variant_id": 16,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "caadc15522d26ed5"
+  },
+  {
+    "csh_hash": "0xcacdc15722d266d1000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf17",
+    "sha256_id": "6b41c052e75f61acc5fa3e87ab285b8a",
+    "energy_x1000": 43815,
+    "family_id": 2,
+    "variant_id": 17,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "cacdc15722d266d1"
+  },
+  {
+    "csh_hash": "0x6d23c278bedc2df4000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf18",
+    "sha256_id": "738fac636c64a0108da007ff51323b9f",
+    "energy_x1000": 47168,
+    "family_id": 2,
+    "variant_id": 18,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6d23c278bedc2df4"
+  },
+  {
+    "csh_hash": "0x6897c3818207a090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf19",
+    "sha256_id": "e25d5c3efdbc3f1d80bc9a17e604569b",
+    "energy_x1000": 39609,
+    "family_id": 2,
+    "variant_id": 19,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6897c3818207a090"
+  },
+  {
+    "csh_hash": "0xbf1181aaa60bea95000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf20",
+    "sha256_id": "e1bd6c17a804ad144973011dd8fb0b35",
+    "energy_x1000": 37131,
+    "family_id": 2,
+    "variant_id": 20,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "bf1181aaa60bea95"
+  },
+  {
+    "csh_hash": "0x6d61c2783ede2df5000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf21",
+    "sha256_id": "f14a64be96b03c5c13a394be9480c829",
+    "energy_x1000": 45920,
+    "family_id": 2,
+    "variant_id": 21,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6d61c2783ede2df5"
+  },
+  {
+    "csh_hash": "0x6897c3819207a094000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf22",
+    "sha256_id": "f537fd061131ee2a977dd5c8d3fe5fe8",
+    "energy_x1000": 39170,
+    "family_id": 2,
+    "variant_id": 22,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6897c3819207a094"
+  },
+  {
+    "csh_hash": "0x6897c3818207a090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf23",
+    "sha256_id": "bf2764efeffdb3753db1f6ae7f399775",
+    "energy_x1000": 39781,
+    "family_id": 2,
+    "variant_id": 23,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6897c3818207a090"
+  },
+  {
+    "csh_hash": "0x6ddfc38d820da090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf24",
+    "sha256_id": "03737a17f2a4bb6f1c99b32627c38800",
+    "energy_x1000": 40555,
+    "family_id": 2,
+    "variant_id": 24,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "6ddfc38d820da090"
+  },
+  {
+    "csh_hash": "0xf853c183b203aa95000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf25",
+    "sha256_id": "62072074407f64d9a81960dcc17d081d",
+    "energy_x1000": 38539,
+    "family_id": 2,
+    "variant_id": 25,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "f853c183b203aa95"
+  },
+  {
+    "csh_hash": "0xca21c0512ed26dd5000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf26",
+    "sha256_id": "2805fcd20bb43174b4c531a7cd2160a4",
+    "energy_x1000": 45027,
+    "family_id": 2,
+    "variant_id": 26,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "ca21c0512ed26dd5"
+  },
+  {
+    "csh_hash": "0xdfddc0a44fc375e0000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf27",
+    "sha256_id": "b9c3d11fdff7aacace1ae7f38eb8cad5",
+    "energy_x1000": 51060,
+    "family_id": 2,
+    "variant_id": 27,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "dfddc0a44fc375e0"
+  },
+  {
+    "csh_hash": "0x4ddfc3ac828ca090000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf28",
+    "sha256_id": "f53c22c710e0b96c6ea9e722c82e6a31",
+    "energy_x1000": 40915,
+    "family_id": 2,
+    "variant_id": 28,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "4ddfc3ac828ca090"
+  },
+  {
+    "csh_hash": "0xcf8dc1fe1288e690000000000000000000000000000000000000000000000000",
+    "molecule_name": "atorvastatin_conf29",
+    "sha256_id": "d172212677319da3cfb2bf1179ac6557",
+    "energy_x1000": 42614,
+    "family_id": 2,
+    "variant_id": 29,
+    "molecule": "atorvastatin",
+    "csh_hash_raw_64bit": "cf8dc1fe1288e690"
+  }
+]

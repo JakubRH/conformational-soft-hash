@@ -1,0 +1,204 @@
+{
+  "config": {
+    "molecules": [
+      "tamoxifen",
+      "imatinib",
+      "atorvastatin"
+    ],
+    "n_conformers": 30,
+    "thresholds": [
+      10,
+      15,
+      20,
+      25
+    ],
+    "lsh_configs": [
+      [
+        16,
+        4
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        4,
+        16
+      ],
+      [
+        2,
+        32
+      ]
+    ]
+  },
+  "results": {
+    "16x4": [
+      {
+        "threshold": 10,
+        "tp": 534,
+        "fp": 0,
+        "fn": 1998,
+        "tn": 5400,
+        "within_recall": 0.2109004739336493,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 46.46666666666667
+      },
+      {
+        "threshold": 15,
+        "tp": 834,
+        "fp": 0,
+        "fn": 1698,
+        "tn": 5400,
+        "within_recall": 0.3293838862559242,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 46.46666666666667
+      },
+      {
+        "threshold": 20,
+        "tp": 1108,
+        "fp": 2,
+        "fn": 1424,
+        "tn": 5398,
+        "within_recall": 0.43759873617693523,
+        "cross_fp_rate": 0.00037037037037037035,
+        "mean_candidates": 46.46666666666667
+      },
+      {
+        "threshold": 25,
+        "tp": 1552,
+        "fp": 254,
+        "fn": 980,
+        "tn": 5146,
+        "within_recall": 0.6129541864139021,
+        "cross_fp_rate": 0.04703703703703704,
+        "mean_candidates": 46.46666666666667
+      }
+    ],
+    "8x8": [
+      {
+        "threshold": 10,
+        "tp": 524,
+        "fp": 0,
+        "fn": 2008,
+        "tn": 5400,
+        "within_recall": 0.20695102685624012,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 11.311111111111112
+      },
+      {
+        "threshold": 15,
+        "tp": 752,
+        "fp": 0,
+        "fn": 1780,
+        "tn": 5400,
+        "within_recall": 0.296998420221169,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 11.311111111111112
+      },
+      {
+        "threshold": 20,
+        "tp": 922,
+        "fp": 0,
+        "fn": 1610,
+        "tn": 5400,
+        "within_recall": 0.3641390205371248,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 11.311111111111112
+      },
+      {
+        "threshold": 25,
+        "tp": 1120,
+        "fp": 70,
+        "fn": 1412,
+        "tn": 5330,
+        "within_recall": 0.4423380726698262,
+        "cross_fp_rate": 0.012962962962962963,
+        "mean_candidates": 11.311111111111112
+      }
+    ],
+    "4x16": [
+      {
+        "threshold": 10,
+        "tp": 314,
+        "fp": 0,
+        "fn": 2218,
+        "tn": 5400,
+        "within_recall": 0.1240126382306477,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 2.566666666666667
+      },
+      {
+        "threshold": 15,
+        "tp": 330,
+        "fp": 0,
+        "fn": 2202,
+        "tn": 5400,
+        "within_recall": 0.13033175355450238,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 2.566666666666667
+      },
+      {
+        "threshold": 20,
+        "tp": 330,
+        "fp": 0,
+        "fn": 2202,
+        "tn": 5400,
+        "within_recall": 0.13033175355450238,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 2.566666666666667
+      },
+      {
+        "threshold": 25,
+        "tp": 330,
+        "fp": 0,
+        "fn": 2202,
+        "tn": 5400,
+        "within_recall": 0.13033175355450238,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 2.566666666666667
+      }
+    ],
+    "2x32": [
+      {
+        "threshold": 10,
+        "tp": 104,
+        "fp": 0,
+        "fn": 2428,
+        "tn": 5400,
+        "within_recall": 0.04107424960505529,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 0.8111111111111111
+      },
+      {
+        "threshold": 15,
+        "tp": 104,
+        "fp": 0,
+        "fn": 2428,
+        "tn": 5400,
+        "within_recall": 0.04107424960505529,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 0.8111111111111111
+      },
+      {
+        "threshold": 20,
+        "tp": 104,
+        "fp": 0,
+        "fn": 2428,
+        "tn": 5400,
+        "within_recall": 0.04107424960505529,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 0.8111111111111111
+      },
+      {
+        "threshold": 25,
+        "tp": 104,
+        "fp": 0,
+        "fn": 2428,
+        "tn": 5400,
+        "within_recall": 0.04107424960505529,
+        "cross_fp_rate": 0.0,
+        "mean_candidates": 0.8111111111111111
+      }
+    ]
+  }
+}

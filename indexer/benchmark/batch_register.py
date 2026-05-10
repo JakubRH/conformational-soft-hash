@@ -28,9 +28,6 @@ from database import SessionLocal, ConformerEvent
 
 # ─── Configuration ────────────────────────────────────────────────────────────
 
-DATASET_FILE = Path(__file__).parent / "synthetic_dataset.json"
-PROGRESS_FILE = Path(__file__).parent / "batch_progress.json"
-
 GAS_PRICE_GWEI = 0.1    # Sepolia is cheap; this is conservative
 GAS_LIMIT = 500_000     # registerConformer uses ~250k gas
 
@@ -40,21 +37,21 @@ def load_abi():
         return json.load(f)["abi"]
 
 
-def load_dataset():
-    with open(DATASET_FILE) as f:
+def load_dataset(dataset_file: Path):
+    with open(dataset_file) as f:
         return json.load(f)
 
 
-def load_progress() -> set:
+def load_progress(progress_file: Path) -> set:
     """Set of csh_hashes already submitted (saved to disk)."""
-    if not PROGRESS_FILE.exists():
+    if not progress_file.exists():
         return set()
-    with open(PROGRESS_FILE) as f:
+    with open(progress_file) as f:
         return set(json.load(f))
 
 
-def save_progress(submitted: set):
-    with open(PROGRESS_FILE, "w") as f:
+def save_progress(progress_file: Path, submitted: set):
+    with open(progress_file, "w") as f:
         json.dump(sorted(submitted), f, indent=2)
 
 
@@ -72,9 +69,26 @@ def already_on_chain() -> set:
 
 def main():
     parser = argparse.ArgumentParser()
+    parser.add_argument("--dataset", type=str, default="synthetic_dataset.json",
+                        help="Dataset JSON file (relative to this script)")
+    parser.add_argument("--progress", type=str, default=None,
+                        help="Progress file (auto-generated from dataset name if None)")
     parser.add_argument("--dry-run", action="store_true",
                         help="Show what would be submitted, don't send tx")
+    parser.add_argument("--dedupe", action="store_true",
+                        help="Skip duplicate hashes within dataset (keep first)")
     args = parser.parse_args()
+
+    # Resolve paths
+    dataset_file = Path(__file__).parent / args.dataset
+    if args.progress:
+        progress_file = Path(__file__).parent / args.progress
+    else:
+        # Auto-generate: synthetic_dataset.json -> synthetic_progress.json
+        progress_file = Path(__file__).parent / args.dataset.replace(".json", "_progress.json")
+
+    print(f"Dataset:           {dataset_file}")
+    print(f"Progress file:     {progress_file}")
 
     # Load private key directly (web3 needs raw key, not just signer)
     private_key = os.getenv("SEPOLIA_PRIVATE_KEY")
@@ -92,8 +106,23 @@ def main():
     print(f"Balance:           {w3.from_wei(balance, 'ether'):.6f} ETH")
 
     # Load dataset and progress
-    dataset = load_dataset()
-    submitted = load_progress()
+    dataset = load_dataset(dataset_file)
+    submitted = load_progress(progress_file)
+
+    # Optionally dedupe within-dataset (keep only first occurrence of each hash)
+    if args.dedupe:
+        seen_hashes = set()
+        dedupe_dataset = []
+        n_dropped = 0
+        for entry in dataset:
+            if entry["csh_hash"] not in seen_hashes:
+                seen_hashes.add(entry["csh_hash"])
+                dedupe_dataset.append(entry)
+            else:
+                n_dropped += 1
+        if n_dropped > 0:
+            print(f"  Dedupe: dropped {n_dropped} within-dataset duplicate(s)")
+        dataset = dedupe_dataset
     on_chain = already_on_chain()
 
     # Skip entries already submitted OR already on chain
@@ -179,7 +208,7 @@ def main():
 
             # Save progress periodically
             if i % 50 == 0:
-                save_progress(submitted)
+                save_progress(progress_file, submitted)
 
             # Tiny pause to not overwhelm Alchemy
             time.sleep(0.05)
@@ -193,7 +222,7 @@ def main():
                 break
 
     # Final save
-    save_progress(submitted)
+    save_progress(progress_file, submitted)
 
     elapsed = time.time() - start_time
     print(f"\n{'='*60}")

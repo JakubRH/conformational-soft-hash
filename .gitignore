@@ -34,3 +34,9 @@ indexer/__pycache__/
 # Benchmark intermediate state
 indexer/benchmark/batch_progress.json
 indexer/benchmark/__pycache__/
+
+# Python cache (root level)
+__pycache__/
+
+# Real dataset progress (run-specific)
+indexer/benchmark/real_dataset_progress.json
