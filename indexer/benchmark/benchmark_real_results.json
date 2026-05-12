@@ -1,0 +1,185 @@
+{
+  "config": {
+    "dataset_file": "/home/jakub/BlockchainProjectStage2/conformational-soft-hash/indexer/benchmark/real_dataset.json",
+    "n_unique_hashes": 64,
+    "molecules": {
+      "tamoxifen": 30,
+      "imatinib": 30,
+      "atorvastatin": 30
+    },
+    "thresholds": [
+      3,
+      5,
+      8,
+      10,
+      12,
+      15,
+      18,
+      20,
+      22,
+      25
+    ]
+  },
+  "results": [
+    {
+      "threshold": 3,
+      "overall_recall": 0.05666156202143951,
+      "per_molecule_recall": {
+        "tamoxifen": 0.07894736842105263,
+        "imatinib": 0.05714285714285714,
+        "atorvastatin": 0.039525691699604744
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 74,
+      "total_fn": 1232,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 5.553908156223031,
+      "latency_ms_median": 5.2968869999858725
+    },
+    {
+      "threshold": 5,
+      "overall_recall": 0.09800918836140889,
+      "per_molecule_recall": {
+        "tamoxifen": 0.14736842105263157,
+        "imatinib": 0.09523809523809523,
+        "atorvastatin": 0.06324110671936758
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 128,
+      "total_fn": 1178,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 6.895731640632619,
+      "latency_ms_median": 6.952036000257067
+    },
+    {
+      "threshold": 8,
+      "overall_recall": 0.14548238897396631,
+      "per_molecule_recall": {
+        "tamoxifen": 0.22631578947368422,
+        "imatinib": 0.14285714285714285,
+        "atorvastatin": 0.08695652173913043
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 190,
+      "total_fn": 1116,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 7.8176943437497926,
+      "latency_ms_median": 7.669699999951263
+    },
+    {
+      "threshold": 10,
+      "overall_recall": 0.1883614088820827,
+      "per_molecule_recall": {
+        "tamoxifen": 0.28421052631578947,
+        "imatinib": 0.18095238095238095,
+        "atorvastatin": 0.1225296442687747
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 246,
+      "total_fn": 1060,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 7.086598187484583,
+      "latency_ms_median": 7.010299999819836
+    },
+    {
+      "threshold": 12,
+      "overall_recall": 0.21592649310872894,
+      "per_molecule_recall": {
+        "tamoxifen": 0.33157894736842103,
+        "imatinib": 0.21428571428571427,
+        "atorvastatin": 0.13043478260869565
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 282,
+      "total_fn": 1024,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 6.970617796852707,
+      "latency_ms_median": 6.592912999622058
+    },
+    {
+      "threshold": 15,
+      "overall_recall": 0.25880551301684535,
+      "per_molecule_recall": {
+        "tamoxifen": 0.3894736842105263,
+        "imatinib": 0.2523809523809524,
+        "atorvastatin": 0.16600790513833993
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 338,
+      "total_fn": 968,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 8.627898578161819,
+      "latency_ms_median": 8.097443000224303
+    },
+    {
+      "threshold": 18,
+      "overall_recall": 0.29555895865237364,
+      "per_molecule_recall": {
+        "tamoxifen": 0.4421052631578947,
+        "imatinib": 0.2857142857142857,
+        "atorvastatin": 0.19367588932806323
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 386,
+      "total_fn": 920,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 8.165535624975462,
+      "latency_ms_median": 8.099092999600543
+    },
+    {
+      "threshold": 20,
+      "overall_recall": 0.32006125574272587,
+      "per_molecule_recall": {
+        "tamoxifen": 0.4842105263157895,
+        "imatinib": 0.3047619047619048,
+        "atorvastatin": 0.20948616600790515
+      },
+      "cross_fp_rate": 0.0,
+      "total_tp": 418,
+      "total_fn": 888,
+      "total_fp": 0,
+      "total_tn": 2726,
+      "latency_ms_mean": 8.185287140648256,
+      "latency_ms_median": 8.284970999739016
+    },
+    {
+      "threshold": 22,
+      "overall_recall": 0.3445635528330781,
+      "per_molecule_recall": {
+        "tamoxifen": 0.5157894736842106,
+        "imatinib": 0.319047619047619,
+        "atorvastatin": 0.23715415019762845
+      },
+      "cross_fp_rate": 0.001467351430667645,
+      "total_tp": 450,
+      "total_fn": 856,
+      "total_fp": 4,
+      "total_tn": 2722,
+      "latency_ms_mean": 9.815345109352336,
+      "latency_ms_median": 10.192069999902742
+    },
+    {
+      "threshold": 25,
+      "overall_recall": 0.39356814701378257,
+      "per_molecule_recall": {
+        "tamoxifen": 0.6,
+        "imatinib": 0.3619047619047619,
+        "atorvastatin": 0.2648221343873518
+      },
+      "cross_fp_rate": 0.01173881144534116,
+      "total_tp": 514,
+      "total_fn": 792,
+      "total_fp": 32,
+      "total_tn": 2694,
+      "latency_ms_mean": 13.406192156253383,
+      "latency_ms_median": 13.108272999943438
+    }
+  ]
+}
