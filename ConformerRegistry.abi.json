@@ -1,0 +1,358 @@
+[
+ {
+  "anonymous": false,
+  "inputs": [
+   {
+    "indexed": true,
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   },
+   {
+    "indexed": false,
+    "internalType": "string",
+    "name": "molecule",
+    "type": "string"
+   },
+   {
+    "indexed": false,
+    "internalType": "string",
+    "name": "specVersion",
+    "type": "string"
+   },
+   {
+    "indexed": true,
+    "internalType": "address",
+    "name": "owner",
+    "type": "address"
+   }
+  ],
+  "name": "CollectionCreated",
+  "type": "event"
+ },
+ {
+  "anonymous": false,
+  "inputs": [
+   {
+    "indexed": true,
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   },
+   {
+    "indexed": true,
+    "internalType": "uint256",
+    "name": "index",
+    "type": "uint256"
+   },
+   {
+    "indexed": false,
+    "internalType": "bytes32",
+    "name": "cshHash",
+    "type": "bytes32"
+   },
+   {
+    "indexed": false,
+    "internalType": "bytes32",
+    "name": "sha256Id",
+    "type": "bytes32"
+   },
+   {
+    "indexed": false,
+    "internalType": "int64",
+    "name": "energyMilli",
+    "type": "int64"
+   }
+  ],
+  "name": "ConformerRegistered",
+  "type": "event"
+ },
+ {
+  "inputs": [],
+  "name": "collectionCount",
+  "outputs": [
+   {
+    "internalType": "uint256",
+    "name": "",
+    "type": "uint256"
+   }
+  ],
+  "stateMutability": "view",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   }
+  ],
+  "name": "conformerCount",
+  "outputs": [
+   {
+    "internalType": "uint256",
+    "name": "",
+    "type": "uint256"
+   }
+  ],
+  "stateMutability": "view",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "string",
+    "name": "molecule",
+    "type": "string"
+   },
+   {
+    "internalType": "string",
+    "name": "specVersion",
+    "type": "string"
+   }
+  ],
+  "name": "findCollection",
+  "outputs": [
+   {
+    "internalType": "bool",
+    "name": "found",
+    "type": "bool"
+   },
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   }
+  ],
+  "stateMutability": "view",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   }
+  ],
+  "name": "getCollection",
+  "outputs": [
+   {
+    "internalType": "string",
+    "name": "molecule",
+    "type": "string"
+   },
+   {
+    "internalType": "string",
+    "name": "specVersion",
+    "type": "string"
+   },
+   {
+    "internalType": "address",
+    "name": "owner",
+    "type": "address"
+   },
+   {
+    "internalType": "uint64",
+    "name": "createdAt",
+    "type": "uint64"
+   },
+   {
+    "internalType": "uint32",
+    "name": "count",
+    "type": "uint32"
+   }
+  ],
+  "stateMutability": "view",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   },
+   {
+    "internalType": "uint256",
+    "name": "index",
+    "type": "uint256"
+   }
+  ],
+  "name": "getConformer",
+  "outputs": [
+   {
+    "internalType": "bytes32",
+    "name": "cshHash",
+    "type": "bytes32"
+   },
+   {
+    "internalType": "bytes32",
+    "name": "sha256Id",
+    "type": "bytes32"
+   },
+   {
+    "internalType": "int64",
+    "name": "energyMilli",
+    "type": "int64"
+   },
+   {
+    "internalType": "uint64",
+    "name": "timestamp",
+    "type": "uint64"
+   }
+  ],
+  "stateMutability": "view",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   }
+  ],
+  "name": "getHashes",
+  "outputs": [
+   {
+    "internalType": "bytes32[]",
+    "name": "out",
+    "type": "bytes32[]"
+   }
+  ],
+  "stateMutability": "view",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "string",
+    "name": "molecule",
+    "type": "string"
+   },
+   {
+    "internalType": "string",
+    "name": "specVersion",
+    "type": "string"
+   },
+   {
+    "internalType": "bytes32",
+    "name": "cshHash",
+    "type": "bytes32"
+   },
+   {
+    "internalType": "bytes32",
+    "name": "sha256Id",
+    "type": "bytes32"
+   },
+   {
+    "internalType": "int64",
+    "name": "energyMilli",
+    "type": "int64"
+   }
+  ],
+  "name": "openAndRegister",
+  "outputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   },
+   {
+    "internalType": "uint256",
+    "name": "index",
+    "type": "uint256"
+   }
+  ],
+  "stateMutability": "nonpayable",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "string",
+    "name": "molecule",
+    "type": "string"
+   },
+   {
+    "internalType": "string",
+    "name": "specVersion",
+    "type": "string"
+   }
+  ],
+  "name": "openCollection",
+  "outputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   }
+  ],
+  "stateMutability": "nonpayable",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   },
+   {
+    "internalType": "bytes32[]",
+    "name": "cshHashes",
+    "type": "bytes32[]"
+   },
+   {
+    "internalType": "bytes32[]",
+    "name": "sha256Ids",
+    "type": "bytes32[]"
+   },
+   {
+    "internalType": "int64[]",
+    "name": "energiesMilli",
+    "type": "int64[]"
+   }
+  ],
+  "name": "registerBatch",
+  "outputs": [],
+  "stateMutability": "nonpayable",
+  "type": "function"
+ },
+ {
+  "inputs": [
+   {
+    "internalType": "uint256",
+    "name": "collectionId",
+    "type": "uint256"
+   },
+   {
+    "internalType": "bytes32",
+    "name": "cshHash",
+    "type": "bytes32"
+   },
+   {
+    "internalType": "bytes32",
+    "name": "sha256Id",
+    "type": "bytes32"
+   },
+   {
+    "internalType": "int64",
+    "name": "energyMilli",
+    "type": "int64"
+   }
+  ],
+  "name": "registerConformer",
+  "outputs": [
+   {
+    "internalType": "uint256",
+    "name": "index",
+    "type": "uint256"
+   }
+  ],
+  "stateMutability": "nonpayable",
+  "type": "function"
+ }
+]

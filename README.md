@@ -1,154 +1,128 @@
 # Conformational Soft Hash (CSH)
 
-A rotation-invariant molecular fingerprint for conformation-sensitive similarity search with blockchain-based conformational registry.
+A fixed-length binary representation of a molecular conformer, designed to be
+compared within one molecule and to fit a single blockchain storage slot.
 
-## Overview
+> **This version supersedes the earlier one.** The first release of this
+> repository reported that CSH outperformed existing shape descriptors and that
+> its hashes could separate different molecules. Both claims were withdrawn
+> after a corrected benchmark. The earlier code fitted its scaling and PCA on
+> the same conformers it then evaluated, and ten of the twenty-eight molecules
+> were built from incorrect SMILES. The numbers below come from the corrected
+> pipeline. What changed, and why, is set out in the revision note at the top of
+> the preprint.
 
-Standard molecular fingerprints (e.g. Morgan/ECFP) are **blind to molecular conformation** — they produce identical hashes for all conformers of the same molecule. CSH solves this by encoding 3D geometry directly into a compact hash that:
+## What CSH does
 
-- Is **invariant to rotation and translation** (based on pairwise distance matrix)
-- Is **sensitive to conformational changes** (Spearman ρ = 0.718 ± 0.128 vs DM-RMSD)
-- **Outperforms USR** (Ultrafast Shape Recognition) on average across 6 drug molecules
-- Enables **tamper-proof conformational registry** via Ethereum smart contract
+A conformer is described by all distances between pairs of heavy atoms together
+with its torsion angles. That vector varies in length with molecular size, so a
+scaling and a PCA are fitted to a reference ensemble generated from the
+molecule's own SMILES, and the result is projected onto 256 random hyperplanes
+by SimHash. The output is 256 bits, which fills one 32-byte Ethereum storage
+slot exactly.
 
-![CSH Pipeline](csh_pipeline_figure3.png)
+Because the projection is fitted per molecule, **hashes of different molecules
+share no frame of reference and must not be compared.** This is a property of
+the design, not an implementation gap. The registry contract enforces it: every
+record belongs to a collection keyed by molecule and transform version, and no
+contract function compares hashes across collections.
 
 ## Results
 
-### Benchmark: CSH vs USR across 6 drug molecules
+Spearman ρ between each method and DM-RMSD, over all conformer pairs of each
+molecule, with every method brought to a common budget of 256 bits.
 
-![CSH vs USR](csh_vs_usr_comparison.png)
+| Method | Development set (28) | Validation set (12) |
+|---|---:|---:|
+| CSH | 0.514 | 0.637 |
+| USR | 0.474 | 0.518 |
+| USRCAT | 0.532 | 0.532 |
+| 3DAPfp | 0.572 | 0.628 |
+| E3FP | 0.213 | 0.181 |
 
-| Molecule | Atoms | CSH ρ | USR ρ |
-|----------|-------|-------|-------|
-| Aspirin | 21 | **0.892** | 0.772 |
-| Ibuprofen | 33 | **0.669** | 0.161 |
-| Imatinib | 68 | 0.530 | **0.855** |
-| Diazepam | 33 | **0.840** | 0.004 |
-| Tamoxifen | 57 | **0.772** | 0.710 |
-| Paclitaxel | 95 | 0.604 | **0.703** |
-| **Mean** | | **0.718 ± 0.128** | 0.534 ± 0.325 |
+Means over molecules the method scored; the baselines return a single hash for
+every conformer of some near-rigid molecules, leaving ρ undefined there.
 
-CSH achieves consistent conformational sensitivity across molecules of varying size and complexity. USR fails completely for rigid aromatic systems (Diazepam ρ = 0.004).
+Paired comparisons, computed only on molecules both methods score:
 
-### Feature Space Validation
+| Comparison | Development set | Validation set |
+|---|---|---|
+| CSH − USR | +0.076, p = 0.025 | +0.119, p = 0.005 |
+| CSH − USRCAT | +0.042, p = 0.223 | +0.105, p = 0.021 |
+| CSH − 3DAPfp | +0.001, p = 0.988 | +0.009, p = 0.733 |
+| CSH − E3FP | +0.341, p < 0.001 | +0.456, p < 0.001 |
 
-![Spearman benchmark](spearman_v4.png)
+CSH is ahead of USR on both sets and of USRCAT on the validation set, and is
+indistinguishable from 3DAPfp on either. 3DAPfp reaches that accuracy without
+any per-molecule fitting, so unlike CSH it stays comparable across molecules;
+its sixteen values also fit in 128 bits. The margin over USRCAT depends on the
+preprocessing: when USRCAT is put through the same per-molecule pipeline that
+CSH requires, the difference on the validation set falls to +0.045 and no longer
+reaches significance.
 
-Feature space Spearman ρ = 0.760 (Ibuprofen), 0.862 (Imatinib) vs rotation-invariant DM-RMSD.
+## Registry
 
-## Pipeline
+`ConformerRegistry.sol`, deployed on the Ethereum Sepolia testnet at
+[0x42fEcFe9B797e83300Bf10F39557e8d7f9B9FED0](https://sepolia.etherscan.io/address/0x42fEcFe9B797e83300Bf10F39557e8d7f9B9FED0)
+and verified there, so the source and the read functions are available from a
+browser.
 
-```
-3D Conformer (RDKit ETKDGv3)
-        ↓
-Pairwise distance matrix (528D for ibuprofen)
-+ Torsion angles (sin/cos encoded)
-+ MMFF94 energy
-        ↓
-GlobalStandardScaler + PCA (32 components)
-        ↓
-SimHash (64-bit) → CSH Hash   ← similarity search
-SHA-256           → Exact ID  ← blockchain registry
-        ↓
-Ethereum smart contract (ConformationalRegistry.sol)
-Timestamp + registrant address → proof-of-conformational-search
-```
+Eighty conformers of four molecules are registered, twenty each: ketamine, where
+CSH leads every baseline; imatinib and atorvastatin, where 3DAPfp and USRCAT
+respectively do better; and caffeine, whose heavy-atom conformers are
+effectively identical and on which every baseline returns a single hash. The
+four were chosen to span the range of outcomes rather than to show the method at
+its best.
 
-## Installation
+Each record holds the 256-bit hash, the full SHA-256 of the canonical feature
+vector, the MMFF94 energy as metadata, and the block timestamp. Deduplication
+uses the SHA-256, not the soft hash, since the latter is lossy by construction.
 
-```bash
-# Python dependencies
-conda activate your-env
-conda install -c conda-forge rdkit
-pip install scikit-learn scipy web3
+Measured cost with the Solidity optimiser at 200 runs: about 1.02 M gas to
+deploy, 168 k to open a collection, and about 99.6 k per conformer in batches of
+ten.
 
-# Blockchain (optional)
-cd hardhat
-npm install
-npx hardhat node  # start local Ethereum node
-npx hardhat run scripts/deploy.js --network localhost
-```
-
-## Usage
-
-```python
-from conformational_soft_hash import ConformationalSoftHash
-from rdkit import Chem
-from rdkit.Chem import AllChem
-
-# Generate conformers
-mol = Chem.MolFromSmiles("CC(C)Cc1ccc(cc1)C(C)C(=O)O")  # Ibuprofen
-mol = Chem.AddHs(mol)
-AllChem.EmbedMultipleConfs(mol, numConfs=10, params=AllChem.ETKDGv3())
-AllChem.MMFFOptimizeMoleculeConfs(mol)
-
-# Hash all conformers
-csh = ConformationalSoftHash()
-results = csh.hash_all_conformers(mol)
-
-for r in results:
-    print(f"Conf {r['conf_id']}: LSH={r['lsh_hash']} SHA256={r['sha256_id'][:16]}...")
-```
-
-## Blockchain Registry
-
-```python
-from web3 import Web3
-# Connect to local Hardhat node
-w3 = Web3(Web3.HTTPProvider("http://127.0.0.1:8545"))
-
-# Register conformer hash on-chain
-# See blockchain_registry.py for full implementation
-```
-
-Each registered conformer includes:
-- CSH hash (for similarity search)
-- SHA-256 ID (exact deduplication)
-- MMFF94 energy
-- Registrant Ethereum address
-- Block timestamp (immutable proof-of-search)
-
-## Repository Structure
+## Files
 
 ```
-├── Blockchain.ipynb              # Main notebook with full pipeline
-├── conformational_soft_hash.py   # Core CSH implementation
-├── blockchain_registry.py        # Web3.py client for smart contract
-├── ConformationalRegistry.sol    # Ethereum smart contract
-├── hardhat/
-│   ├── contracts/                # Solidity contracts
-│   └── scripts/deploy.js         # Deployment script
-├── csh_vs_usr_comparison.png     # Figure 2: benchmark results
-├── csh_pipeline_figure3.png      # Figure 3: pipeline diagram
-└── spearman_v4.png               # Figure 1: feature space validation
+CSH_full.ipynb              benchmark, sanity checks, registry, demo data
+csh_hash.py                 CSH implementation
+ap3d.py                     3DAPfp, implemented from Awale et al. 2015
+fig4.py                     pipeline diagram
+ConformerRegistry.sol       registry contract (solc 0.8.20, optimiser 200 runs)
+ConformerRegistry.abi.json  compiled ABI
+ConformerRegistry.bin       compiled bytecode
+table1_development.csv      per-molecule results, development set
+table2_control.csv          per-molecule results, validation set
+registry_records.csv        what was written on chain
+README_run.md               how to run the notebook
 ```
 
-## Key Dependencies
+## Running it
 
-- [RDKit](https://www.rdkit.org/) — molecular informatics
-- [scikit-learn](https://scikit-learn.org/) — PCA, StandardScaler
-- [web3.py](https://web3py.readthedocs.io/) — Ethereum interaction
-- [Hardhat](https://hardhat.org/) — Ethereum development environment
+Put `CSH_full.ipynb`, `csh_hash.py` and `ap3d.py` in one directory. Beyond a
+working RDKit environment you need:
+
+```
+pip install e3fp
+```
+
+Set `QUICK = False` and run sections 1 to 10; about 30 minutes. Section 11
+writes to a blockchain and is off by default (`REGISTER = False`); leave it that
+way unless the hashes are final, since those writes cannot be undone.
+
+See `README_run.md` for the details.
 
 ## Citation
 
-If you use this code in your research, please cite:
-
-```
-Hryc, J. (2026). Conformational Soft Hash (CSH): A Rotation-Invariant 
-Molecular Fingerprint for Conformation-Sensitive Similarity Search and 
-Blockchain-Based Conformational Registry. [preprint]
-```
+Hryc, J. (2026). Conformational Soft Hash: a compact binary representation of
+molecular conformers with a blockchain-based registry. ChemRxiv preprint.
 
 ## Author
 
-**Jakub Hryc**  
-Department of Computational Biophysics and Bioinformatics  
-Jagiellonian University, Kraków, Poland  
-[ORCID: 0000-0002-6182-4500](https://orcid.org/0000-0002-6182-4500)  
-[LinkedIn](https://www.linkedin.com/in/jakub-hryc-a6abb315a/)
+Jakub Hryc
+ORCID: [0000-0002-6182-4500](https://orcid.org/0000-0002-6182-4500)
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+MIT, see `LICENSE`.
