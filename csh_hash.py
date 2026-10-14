@@ -17,10 +17,12 @@ projection). That restored reproducibility but destroyed sensitivity: without
 centering, the projection is dominated by the constant part of the interatomic
 distances, so conformers of one molecule collapsed onto one or two hashes.
 
-v2 keeps both properties. The transform is still fitted — but to a CANONICAL
+v2 keeps both properties. The transform is still fitted, but to a CANONICAL
 REFERENCE ENSEMBLE that is a deterministic function of the molecule, not of the
-user's data. Same molecule -> same reference ensemble -> same transform -> same
-hash, for everyone.
+user's data. The same SMILES, under the same library versions, therefore yields
+the same transform and the same hash for everyone. Note that this is
+reproducibility of the *transform*, not tolerance to perturbed coordinates: see
+KNOWN LIMITATIONS.
 
 THE SPEC (frozen; changing any constant changes CSH)
 ----------------------------------------------------
@@ -38,7 +40,11 @@ THE SPEC (frozen; changing any constant changes CSH)
    heavy=False for the all-atom variant.
 4. CONFORMATION-CARRYING PAIRS ONLY. Atom pairs closer than MIN_TOPO bonds are
    excluded: 1-2 and 1-3 distances are fixed by topology and only add constants.
-5. FEATURES: raw pairwise distances + (sin, cos) per rotatable torsion.
+   MIN_TOPO is part of the frozen spec and so is covered by the "csh2" tag in
+   spec_version(); changing it requires bumping that tag, not extending the
+   string, or hashes already on chain would silently stop matching.
+5. FEATURES: raw pairwise distances + (sin, cos) per non-ring single bond
+   that has neighbours on both sides (not RDKit's rotatable-bond definition).
    No force-field energy — it is software-version dependent and would flip bits
    between users; it stays as registry metadata instead.
 6. TRANSFORM: StandardScaler + PCA(PCA_DIMS), both fitted on the reference
@@ -55,6 +61,15 @@ KNOWN LIMITATIONS (state these in any write-up)
   ensemble. The version should be recorded alongside a deposited hash.
 - SimHash is scale-invariant: it encodes the direction of the deviation from the
   reference mean, not its magnitude.
+- The hash is sensitive to small coordinate perturbations. Displacing every atom
+  by gaussian noise of 0.01 A changes roughly 37 of 256 bits on the molecules
+  tested, and far more where the reference ensemble has little spread. Two
+  independent computations of "the same" conformer will not generally agree bit
+  for bit; the hash orders conformers, it does not recognise them.
+- sha256_id() hashes the raw float64 bytes, so it matches only for bitwise
+  identical vectors. It identifies one computed conformer, not a geometry.
+- PCA is capped at the number of available features, so molecules smaller than
+  PCA_DIMS features get fewer components (phenol and aniline: 6; metformin: 24).
 
 Usage
 -----
