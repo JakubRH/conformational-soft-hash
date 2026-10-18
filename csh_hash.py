@@ -43,8 +43,11 @@ THE SPEC (frozen; changing any constant changes CSH)
    MIN_TOPO is part of the frozen spec and so is covered by the "csh2" tag in
    spec_version(); changing it requires bumping that tag, not extending the
    string, or hashes already on chain would silently stop matching.
-5. FEATURES: raw pairwise distances + (sin, cos) per non-ring single bond
-   that has neighbours on both sides (not RDKit's rotatable-bond definition).
+5. FEATURES: raw pairwise distances + (sin, cos) per non-ring bond that has
+   neighbours on both sides. Bond order is not checked, so a non-ring double
+   bond contributes a torsion too; that torsion is effectively constant across
+   conformers and is left in rather than filtered out, which keeps the feature
+   set a simple function of the molecular graph.
    No force-field energy — it is software-version dependent and would flip bits
    between users; it stays as registry metadata instead.
 6. TRANSFORM: StandardScaler + PCA(PCA_DIMS), both fitted on the reference
@@ -70,6 +73,12 @@ KNOWN LIMITATIONS (state these in any write-up)
   identical vectors. It identifies one computed conformer, not a geometry.
 - PCA is capped at the number of available features, so molecules smaller than
   PCA_DIMS features get fewer components (phenol and aniline: 6; metformin: 24).
+- spec_version() does not record ref_n_confs, so two transforms built with
+  different reference-ensemble sizes carry the same version string while
+  producing different hashes. Every result reported here uses REF_N_CONFS, but
+  a registry that accepts deposits from other users would need this in the
+  version string, along with the NumPy and scikit-learn versions that affect
+  the PCA fit.
 
 Usage
 -----
@@ -114,8 +123,14 @@ def canonicalize(mol, conf_id=0):
 
 
 def _torsion_sincos(mol, conf_id):
-    """(sin, cos) per rotatable (non-ring) bond, in the deterministic bond
-    order of the canonicalized molecule."""
+    """(sin, cos) per non-ring bond with neighbours on both sides, in the
+    deterministic bond order of the canonicalized molecule.
+
+    Bond order is deliberately not checked: a non-ring double bond yields a
+    torsion that barely varies between conformers, so it contributes close to
+    a constant rather than noise, and leaving it in keeps the rule simple.
+    The two atoms defining each dihedral are the lowest-numbered neighbour on
+    each side, which is deterministic once the atoms are canonicalized."""
     conf = mol.GetConformer(conf_id)
     out = []
     for bond in mol.GetBonds():
